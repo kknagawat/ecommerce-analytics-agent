@@ -1,5 +1,12 @@
 # E-Commerce Analytics Agent
 
+## Live Demo
+
+API is deployed at: https://ecommerce-analytics-agent.onrender.com
+
+- Interactive docs: https://ecommerce-analytics-agent.onrender.com/docs
+- Health check: https://ecommerce-analytics-agent.onrender.com/health
+
 An end-to-end AI-powered analytics pipeline for a fictional e-commerce company. Raw, messy data is ingested, cleaned, loaded into a normalized SQLite database, and exposed through a LangChain Text-to-SQL agent and FastAPI REST API.
 
 ---
