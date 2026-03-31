@@ -1,0 +1,23 @@
+============================================================
+  PROFILE REPORT: REVIEWS_CLEAN
+============================================================
+  Rows      : 455
+  Columns   : 9
+  Duplicates: 0 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  review_id                      str                  0    0.0%      455
+  product_id                     str                  0    0.0%       46
+  customer_id                    str                  0    0.0%      180
+  rating                         float64              0    0.0%       15
+  review_text                    str                 37    8.1%       21
+  review_date                    str                  0    0.0%      321
+  verified_purchase              bool                 0    0.0%        2
+  helpful_votes                  int64                0    0.0%       51
+  has_review_text                bool                 0    0.0%        2
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+============================================================

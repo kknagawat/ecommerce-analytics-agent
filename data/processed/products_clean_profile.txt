@@ -1,0 +1,22 @@
+============================================================
+  PROFILE REPORT: PRODUCTS_CLEAN
+============================================================
+  Rows      : 46
+  Columns   : 8
+  Duplicates: 0 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  product_id                     str                  0    0.0%       46
+  sku                            str                  0    0.0%       46
+  product_name                   str                  0    0.0%       46
+  category                       str                  0    0.0%        9
+  unit_price                     float64              0    0.0%       46
+  stock_quantity                 int64                0    0.0%       44
+  weight_kg                      float64              2    4.3%       45
+  created_date                   str                  0    0.0%       45
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+============================================================

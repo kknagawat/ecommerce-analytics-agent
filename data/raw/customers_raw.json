@@ -1,0 +1,3453 @@
+[
+  {
+    "customer_id": "CUST-1000",
+    "name": {
+      "first": "Layla",
+      "last": "Brown"
+    },
+    "email": "layla.brown@gmail.com",
+    "phone": "+971522097220",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "59672"
+    },
+    "signup_date": "13/09/2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1001",
+    "name": {
+      "first": "Karim",
+      "last": "Jones"
+    },
+    "email": "karim.jones@gmail.com",
+    "phone": "+962520776478",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "34890"
+    },
+    "signup_date": "17 May 2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1002",
+    "name": {
+      "first": "Sara",
+      "last": "Wilson"
+    },
+    "email": "sara.wilson@yahoo.com",
+    "phone": "+962567491435",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "79615"
+    },
+    "signup_date": "2022-10-05",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1003",
+    "name": {
+      "first": "Ziad",
+      "last": "Mansour"
+    },
+    "email": null,
+    "phone": "+966554193837",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "25713"
+    },
+    "signup_date": "2022-01-16",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1004",
+    "name": {
+      "first": "Dina",
+      "last": "Haddad"
+    },
+    "email": "dina.haddad@gmail.com",
+    "phone": "+1570166708",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "51467"
+    },
+    "signup_date": "06-17-2021",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1005",
+    "name": {
+      "first": "EMMA",
+      "last": "Smith"
+    },
+    "email": "emma.smith@yahoo.com",
+    "phone": "+20561367643",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "51441"
+    },
+    "signup_date": "06-28-2022",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1006",
+    "name": {
+      "first": "Rami",
+      "last": "Khalil"
+    },
+    "email": "rami.khalil@gmail.com",
+    "phone": "+966546843172",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "19016"
+    },
+    "signup_date": "07/01/2024",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1007",
+    "name": {
+      "first": "Mona",
+      "last": "Nasser"
+    },
+    "email": "mona.nasser@gmail.com",
+    "phone": "+1501049999",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "97538"
+    },
+    "signup_date": "January 18, 2024",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1008",
+    "name": {
+      "first": "Robert",
+      "last": "Abbas"
+    },
+    "email": "robert.abbas@gmail.com",
+    "phone": "+966536553958",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "46930"
+    },
+    "signup_date": "2021-08-25",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1009",
+    "name": {
+      "first": "Hassan",
+      "last": "Ibrahim"
+    },
+    "email": "hassan.ibrahim@gmail.com",
+    "phone": "+971512388090",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "93136"
+    },
+    "signup_date": "September 28, 2023",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1010",
+    "name": {
+      "first": "Sara",
+      "last": "al-rashid"
+    },
+    "email": "sara.alrashid@yahoo.com",
+    "phone": "+962574045292",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "66057"
+    },
+    "signup_date": "September 25, 2021",
+    "is_active": 1,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1011",
+    "name": {
+      "first": "Fatima",
+      "last": "Mansour"
+    },
+    "email": "fatima.mansour@yahoo.com",
+    "phone": "+20578183110",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "82420"
+    },
+    "signup_date": "02 Nov 2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1012",
+    "name": {
+      "first": "Youssef",
+      "last": "Haddad"
+    },
+    "email": "youssef.haddad@gmail.com",
+    "phone": "+966591545441",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "42706"
+    },
+    "signup_date": "2023-01-17",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1013",
+    "name": {
+      "first": "David",
+      "last": "Wilson"
+    },
+    "email": "david.wilson@gmail.com",
+    "phone": "+966521810617",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "33206"
+    },
+    "signup_date": "13 Apr 2023",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1014",
+    "name": {
+      "first": "Layla",
+      "last": "Smith"
+    },
+    "email": "layla.smith@yahoo.com",
+    "phone": "+971551343880",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "15075"
+    },
+    "signup_date": "24/04/2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1015",
+    "name": {
+      "first": "Hassan",
+      "last": "Jones"
+    },
+    "email": "hassan.jones@yahoo.com",
+    "phone": "+971555123456",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "53025"
+    },
+    "signup_date": "18/09/2022",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1016",
+    "name": {
+      "first": "David",
+      "last": "Ibrahim"
+    },
+    "email": "david.ibrahim@gmail.com",
+    "phone": "+1544446182",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "13617"
+    },
+    "signup_date": "11-10-2023",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1017",
+    "name": {
+      "first": "Layla",
+      "last": "Ibrahim"
+    },
+    "email": "layla.ibrahim@gmail.com",
+    "phone": "+20558571795",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "89457"
+    },
+    "signup_date": "11 Aug 2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1018",
+    "name": {
+      "first": "Robert",
+      "last": "Saleh"
+    },
+    "email": "robert.saleh@yahoo.com",
+    "phone": "+1592188405",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "97900"
+    },
+    "signup_date": "04-01-2021",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1019",
+    "name": {
+      "first": "Hana",
+      "last": "Mansour"
+    },
+    "email": "hana.mansour@yahoo.com",
+    "phone": "+971596603781",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "49363"
+    },
+    "signup_date": "08 Nov 2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1020",
+    "name": {
+      "first": "Ali",
+      "last": "Williams"
+    },
+    "email": "ali.williams@yahoo.com",
+    "phone": "+962589245317",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": null
+    },
+    "signup_date": "29 Aug 2022",
+    "is_active": "no",
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1021",
+    "name": {
+      "first": "Dina",
+      "last": "Mustafa"
+    },
+    "email": "dina.mustafa@yahoo.com",
+    "phone": "+966557698610",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "86019"
+    },
+    "signup_date": "2024-01-28",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1022",
+    "name": {
+      "first": "Rami",
+      "last": "Jones"
+    },
+    "email": "rami.jones@gmail.com",
+    "phone": "+966588429450",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "21114"
+    },
+    "signup_date": "14 Mar 2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1023",
+    "name": {
+      "first": "Emma",
+      "last": "Smith"
+    },
+    "email": "emma204@gmail.com",
+    "phone": "+966503278320",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "16057"
+    },
+    "signup_date": "April 27, 2022",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1024",
+    "name": {
+      "first": "Dina",
+      "last": "Mansour"
+    },
+    "email": "dina.mansour@yahoo.com",
+    "phone": "+962566354180",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "62383"
+    },
+    "signup_date": "29 Apr 2023",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1025",
+    "name": {
+      "first": "John",
+      "last": "Al-Rashid"
+    },
+    "email": "john.alrashid@yahoo.com",
+    "phone": "+1562350830",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "16582"
+    },
+    "signup_date": "08-07-2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1026",
+    "name": {
+      "first": "Rami",
+      "last": "Abbas"
+    },
+    "email": "rami.abbas@gmail.com",
+    "phone": "+1542587010",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "68008"
+    },
+    "signup_date": "10 Aug 2023",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1027",
+    "name": {
+      "first": "Rami",
+      "last": "Nasser"
+    },
+    "email": "rami.nasser@yahoo.com",
+    "phone": "+966585585469",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "46347"
+    },
+    "signup_date": "08-31-2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1028",
+    "name": {
+      "first": "Karim",
+      "last": "Jones"
+    },
+    "email": "karim.jones@yahoo.com",
+    "phone": "+20572498004",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "20561"
+    },
+    "signup_date": "09/08/2022",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1029",
+    "name": {
+      "first": "Nour",
+      "last": "Williams"
+    },
+    "email": "nour.williams@yahoo.com",
+    "phone": "+962544410148",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "81121"
+    },
+    "signup_date": "09/11/2021",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1030",
+    "name": {
+      "first": "Sara",
+      "last": "Saleh"
+    },
+    "email": "sara.saleh@gmail.com",
+    "phone": "+1593351515",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "12560"
+    },
+    "signup_date": "05-11-2023",
+    "is_active": 1,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1031",
+    "name": {
+      "first": "Lina",
+      "last": "Al-Rashid"
+    },
+    "email": "lina.alrashid@gmail.com",
+    "phone": "+962572238741",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "81582"
+    },
+    "signup_date": "09-04-2022",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1032",
+    "name": {
+      "first": "Nour",
+      "last": "Ibrahim"
+    },
+    "email": "nour.ibrahim@yahoo.com",
+    "phone": "+962597197979",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "31632"
+    },
+    "signup_date": "2023-09-22",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1033",
+    "name": {
+      "first": "Dina",
+      "last": "Wilson"
+    },
+    "email": "dina.wilson@gmail.com",
+    "phone": "+971511267237",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "94246"
+    },
+    "signup_date": "18 Mar 2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1034",
+    "name": {
+      "first": "Ava",
+      "last": "Jones"
+    },
+    "email": "ava.jones@yahoo.com",
+    "phone": "+966561028710",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "52840"
+    },
+    "signup_date": "April 13, 2021",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1035",
+    "name": {
+      "first": "Karim",
+      "last": "Brown"
+    },
+    "email": "karim.brown@yahoo.com",
+    "phone": "+1506990811",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "55870"
+    },
+    "signup_date": "06-17-2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1036",
+    "name": {
+      "first": "David",
+      "last": "Haddad"
+    },
+    "email": "david.haddad@yahoo.com",
+    "phone": "+971583394260",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "29973"
+    },
+    "signup_date": "05/03/2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1037",
+    "name": {
+      "first": "Lina",
+      "last": "Khalil"
+    },
+    "email": "lina.khalil@gmail.com",
+    "phone": "+20522520277",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "89415"
+    },
+    "signup_date": "03-23-2022",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1038",
+    "name": {
+      "first": "Mona",
+      "last": "Khalil"
+    },
+    "email": "mona.khalil@gmail.com",
+    "phone": "+962553238057",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "35995"
+    },
+    "signup_date": "February 22, 2021",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1039",
+    "name": {
+      "first": "Michael",
+      "last": "Farah"
+    },
+    "email": "michael.farah@gmail.com",
+    "phone": "+1505512205",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "55508"
+    },
+    "signup_date": "10 Sep 2022",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1040",
+    "name": {
+      "first": "Omar",
+      "last": "Miller"
+    },
+    "email": "omar.miller@gmail.com",
+    "phone": "+962514165187",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "66822"
+    },
+    "signup_date": "2022-11-30",
+    "is_active": "yes",
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1041",
+    "name": {
+      "first": "Michael",
+      "last": "Abbas"
+    },
+    "email": "michael.abbas@gmail.com",
+    "phone": "+20582666356",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "80539"
+    },
+    "signup_date": "27 Dec 2021",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1042",
+    "name": {
+      "first": "Hana",
+      "last": "Ibrahim"
+    },
+    "email": "hana.ibrahim@yahoo.com",
+    "phone": "+962532730796",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "70910"
+    },
+    "signup_date": "2022-05-18",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1043",
+    "name": {
+      "first": "Ahmed",
+      "last": "Davis"
+    },
+    "email": "ahmed.davis@gmail.com",
+    "phone": "+20534675473",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "54608"
+    },
+    "signup_date": "28/10/2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1044",
+    "name": {
+      "first": "Michael",
+      "last": "Ibrahim"
+    },
+    "email": "michael.ibrahim@gmail.com",
+    "phone": "+971532394260",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "63271"
+    },
+    "signup_date": "21 Jan 2021",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1045",
+    "name": {
+      "first": "David",
+      "last": "Farah"
+    },
+    "email": null,
+    "phone": "+971512489409",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "48566"
+    },
+    "signup_date": "09-03-2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1046",
+    "name": {
+      "first": "Michael",
+      "last": "Farah"
+    },
+    "email": "michael544@gmail.com",
+    "phone": "+20557110154",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "82140"
+    },
+    "signup_date": "April 06, 2024",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1047",
+    "name": {
+      "first": "Michael",
+      "last": "Jones"
+    },
+    "email": "michael.jones@yahoo.com",
+    "phone": "+966542352128",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "25670"
+    },
+    "signup_date": "September 20, 2022",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1048",
+    "name": {
+      "first": "Hassan",
+      "last": "Davis"
+    },
+    "email": "hassan.davis@yahoo.com",
+    "phone": "+971526054020",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "48829"
+    },
+    "signup_date": "11 Dec 2023",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1049",
+    "name": {
+      "first": "Layla",
+      "last": "Mustafa"
+    },
+    "email": "layla.mustafa@yahoo.com",
+    "phone": "+971574270583",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "48290"
+    },
+    "signup_date": "30/12/2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1050",
+    "name": {
+      "first": "FATIMA",
+      "last": "Al-Rashid"
+    },
+    "email": "fatima.alrashid@gmail.com",
+    "phone": "+20524744872",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "16734"
+    },
+    "signup_date": "08-06-2022",
+    "is_active": "yes",
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1051",
+    "name": {
+      "first": "Fatima",
+      "last": "Mansour"
+    },
+    "email": "fatima.mansour@gmail.com",
+    "phone": "+971520364454",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "29555"
+    },
+    "signup_date": "2023-10-05",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1052",
+    "name": {
+      "first": "Nour",
+      "last": "Khalil"
+    },
+    "email": "nour.khalil@gmail.com",
+    "phone": "+1530291214",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "78494"
+    },
+    "signup_date": "03 May 2023",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1053",
+    "name": {
+      "first": "Mia",
+      "last": "Jones"
+    },
+    "email": "mia.jones@gmail.com",
+    "phone": "+971581823275",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "23006"
+    },
+    "signup_date": "May 29, 2023",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1054",
+    "name": {
+      "first": "Karim",
+      "last": "Mansour"
+    },
+    "email": "karim.mansour@gmail.com",
+    "phone": "+966500359129",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "63545"
+    },
+    "signup_date": "07/05/2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1055",
+    "name": {
+      "first": "Lina",
+      "last": "Mustafa"
+    },
+    "email": "lina.mustafa@gmail.com",
+    "phone": "+962509553585",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "40595"
+    },
+    "signup_date": "April 20, 2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1056",
+    "name": {
+      "first": "Emma",
+      "last": "Saleh"
+    },
+    "email": "emma.saleh@yahoo.com",
+    "phone": "+966535652586",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "28643"
+    },
+    "signup_date": "24 Aug 2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1057",
+    "name": {
+      "first": "Layla",
+      "last": "Mustafa"
+    },
+    "email": "layla.mustafa@gmail.com",
+    "phone": "+962592432795",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "49857"
+    },
+    "signup_date": "March 11, 2024",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1058",
+    "name": {
+      "first": "Ziad",
+      "last": "Wilson"
+    },
+    "email": "ziad.wilson@gmail.com",
+    "phone": "+962598587474",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "52247"
+    },
+    "signup_date": "2023-06-16",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1059",
+    "name": {
+      "first": "Omar",
+      "last": "Farah"
+    },
+    "email": "omar.farah@gmail.com",
+    "phone": "+20577342561",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "15273"
+    },
+    "signup_date": "24 Mar 2024",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1060",
+    "name": {
+      "first": "Ziad",
+      "last": "jones"
+    },
+    "email": "ziad.jones@gmail.com",
+    "phone": "+962585199362",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "74451"
+    },
+    "signup_date": "24/07/2022",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1061",
+    "name": {
+      "first": "Dana",
+      "last": "Brown"
+    },
+    "email": "dana.brown@gmail.com",
+    "phone": "+20555250068",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "74942"
+    },
+    "signup_date": "2022-10-20",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1062",
+    "name": {
+      "first": "James",
+      "last": "Wilson"
+    },
+    "email": "james.wilson@yahoo.com",
+    "phone": "+20515558733",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "62976"
+    },
+    "signup_date": "2023-07-21",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1063",
+    "name": {
+      "first": "Rami",
+      "last": "Brown"
+    },
+    "email": "rami.brown@yahoo.com",
+    "phone": "+962583940940",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "67939"
+    },
+    "signup_date": "20 Jan 2022",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1064",
+    "name": {
+      "first": "Karim",
+      "last": "Wilson"
+    },
+    "email": "karim.wilson@gmail.com",
+    "phone": "+962516297533",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "13783"
+    },
+    "signup_date": "08-13-2022",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1065",
+    "name": {
+      "first": "Mona",
+      "last": "Wilson"
+    },
+    "email": "mona.wilson@yahoo.com",
+    "phone": "+971561934487",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "25396"
+    },
+    "signup_date": "02-06-2024",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1066",
+    "name": {
+      "first": "Mia",
+      "last": "Mustafa"
+    },
+    "email": "mia.mustafa@gmail.com",
+    "phone": "+962532713008",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "69871"
+    },
+    "signup_date": "07-14-2022",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1067",
+    "name": {
+      "first": "Hassan",
+      "last": "Miller"
+    },
+    "email": "hassan.miller@yahoo.com",
+    "phone": "+962545617282",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "76550"
+    },
+    "signup_date": "2021-10-07",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1068",
+    "name": {
+      "first": "Mona",
+      "last": "Mustafa"
+    },
+    "email": "mona.mustafa@gmail.com",
+    "phone": "+962572287061",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "73483"
+    },
+    "signup_date": "04-02-2024",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1069",
+    "name": {
+      "first": "Reem",
+      "last": "Wilson"
+    },
+    "email": "reem.wilson@gmail.com",
+    "phone": "+966576745380",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "60196"
+    },
+    "signup_date": "July 22, 2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1070",
+    "name": {
+      "first": "Sara",
+      "last": "Smith"
+    },
+    "email": "sara.smith@yahoo.com",
+    "phone": "+966566481885",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": null
+    },
+    "signup_date": "08-27-2023",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1071",
+    "name": {
+      "first": "Ziad",
+      "last": "Smith"
+    },
+    "email": "ziad.smith@yahoo.com",
+    "phone": "+962502059919",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "28894"
+    },
+    "signup_date": "07-25-2021",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1072",
+    "name": {
+      "first": "Omar",
+      "last": "Davis"
+    },
+    "email": "omar.davis@gmail.com",
+    "phone": "+962587219599",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "20527"
+    },
+    "signup_date": "June 27, 2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1073",
+    "name": {
+      "first": "Tariq",
+      "last": "Smith"
+    },
+    "email": "tariq.smith@yahoo.com",
+    "phone": "+971531510328",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "92727"
+    },
+    "signup_date": "27 Sep 2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1074",
+    "name": {
+      "first": "Sophia",
+      "last": "Mansour"
+    },
+    "email": "sophia.mansour@gmail.com",
+    "phone": "+20503885234",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "16028"
+    },
+    "signup_date": "2021-07-21",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1075",
+    "name": {
+      "first": "Mona",
+      "last": "Johnson"
+    },
+    "email": "mona.johnson@yahoo.com",
+    "phone": "+971555123456",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "99364"
+    },
+    "signup_date": "02/06/2023",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1076",
+    "name": {
+      "first": "Layla",
+      "last": "Mansour"
+    },
+    "email": "layla.mansour@gmail.com",
+    "phone": "+962578270025",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "28758"
+    },
+    "signup_date": "23 Feb 2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1077",
+    "name": {
+      "first": "John",
+      "last": "Ibrahim"
+    },
+    "email": "john.ibrahim@gmail.com",
+    "phone": "+962538605268",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "98815"
+    },
+    "signup_date": "2022-06-07",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1078",
+    "name": {
+      "first": "Rami",
+      "last": "Johnson"
+    },
+    "email": "rami.johnson@gmail.com",
+    "phone": "+962540550084",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "36111"
+    },
+    "signup_date": "09-05-2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1079",
+    "name": {
+      "first": "Fatima",
+      "last": "Farah"
+    },
+    "email": "fatima.farah@gmail.com",
+    "phone": "+20502944682",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "96275"
+    },
+    "signup_date": "March 17, 2024",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1080",
+    "name": {
+      "first": "Ahmed",
+      "last": "Haddad"
+    },
+    "email": "ahmed.haddad@gmail.com",
+    "phone": "+966581478884",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "56179"
+    },
+    "signup_date": "October 15, 2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1081",
+    "name": {
+      "first": "Dina",
+      "last": "Ibrahim"
+    },
+    "email": "dina.ibrahim@gmail.com",
+    "phone": "+971541464269",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "67779"
+    },
+    "signup_date": "2021-10-08",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1082",
+    "name": {
+      "first": "Dana",
+      "last": "Abbas"
+    },
+    "email": "dana.abbas@gmail.com",
+    "phone": "+966526950221",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "27322"
+    },
+    "signup_date": "August 28, 2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1083",
+    "name": {
+      "first": "Ziad",
+      "last": "Ibrahim"
+    },
+    "email": "ziad.ibrahim@gmail.com",
+    "phone": "+962539613214",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "54396"
+    },
+    "signup_date": "December 03, 2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1084",
+    "name": {
+      "first": "Omar",
+      "last": "Abbas"
+    },
+    "email": "omar.abbas@gmail.com",
+    "phone": "+1549093496",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "21836"
+    },
+    "signup_date": "04-08-2022",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1085",
+    "name": {
+      "first": "Karim",
+      "last": "Wilson"
+    },
+    "email": "karim689@gmail.com",
+    "phone": "+20578458327",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "59941"
+    },
+    "signup_date": "July 21, 2023",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1086",
+    "name": {
+      "first": "Emma",
+      "last": "Farah"
+    },
+    "email": "emma.farah@gmail.com",
+    "phone": "+1544024257",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "89964"
+    },
+    "signup_date": "21 Feb 2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1087",
+    "name": {
+      "first": "John",
+      "last": "Jones"
+    },
+    "email": "john.jones@yahoo.com",
+    "phone": "+971504994527",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "49893"
+    },
+    "signup_date": "09-11-2022",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1088",
+    "name": {
+      "first": "Fatima",
+      "last": "Farah"
+    },
+    "email": null,
+    "phone": "+20589991136",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "80804"
+    },
+    "signup_date": "06/01/2024",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1089",
+    "name": {
+      "first": "Sophia",
+      "last": "Abbas"
+    },
+    "email": "sophia.abbas@gmail.com",
+    "phone": "+1554776386",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "46666"
+    },
+    "signup_date": "2023-04-30",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1090",
+    "name": {
+      "first": "Hassan",
+      "last": "Jones"
+    },
+    "email": "hassan703@gmail.com",
+    "phone": "+20573076970",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "94518"
+    },
+    "signup_date": "April 29, 2022",
+    "is_active": "yes",
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1091",
+    "name": {
+      "first": "Tariq",
+      "last": "Ibrahim"
+    },
+    "email": "tariq.ibrahim@yahoo.com",
+    "phone": "+966586128115",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "93819"
+    },
+    "signup_date": "09-08-2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1092",
+    "name": {
+      "first": "Olivia",
+      "last": "Smith"
+    },
+    "email": "olivia.smith@yahoo.com",
+    "phone": "+1527804191",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "86858"
+    },
+    "signup_date": "15 Sep 2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1093",
+    "name": {
+      "first": "Ali",
+      "last": "Abbas"
+    },
+    "email": "ali.abbas@gmail.com",
+    "phone": "+966517447248",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "80807"
+    },
+    "signup_date": "January 06, 2021",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1094",
+    "name": {
+      "first": "Fatima",
+      "last": "Al-Rashid"
+    },
+    "email": "fatima244@gmail.com",
+    "phone": "+1543455870",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "12068"
+    },
+    "signup_date": "January 31, 2021",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1095",
+    "name": {
+      "first": "Sara",
+      "last": "Abbas"
+    },
+    "email": "sara.abbas@yahoo.com",
+    "phone": "+971563920651",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "68756"
+    },
+    "signup_date": "13 May 2023",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1096",
+    "name": {
+      "first": "Sami",
+      "last": "Khalil"
+    },
+    "email": "sami.khalil@gmail.com",
+    "phone": "+971597608902",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "96363"
+    },
+    "signup_date": "29/10/2023",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1097",
+    "name": {
+      "first": "John",
+      "last": "Al-Rashid"
+    },
+    "email": "john.alrashid@gmail.com",
+    "phone": "+971565802771",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "68138"
+    },
+    "signup_date": "09-08-2023",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1098",
+    "name": {
+      "first": "Ali",
+      "last": "Abbas"
+    },
+    "email": "ali600@gmail.com",
+    "phone": "+1595583530",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "52622"
+    },
+    "signup_date": "September 16, 2021",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1099",
+    "name": {
+      "first": "Ziad",
+      "last": "Mustafa"
+    },
+    "email": "ziad.mustafa@gmail.com",
+    "phone": "+971587874085",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "95316"
+    },
+    "signup_date": "02 Nov 2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1100",
+    "name": {
+      "first": "RAMI",
+      "last": "Farah"
+    },
+    "email": "rami.farah@yahoo.com",
+    "phone": "+971541949529",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "65936"
+    },
+    "signup_date": "11-26-2022",
+    "is_active": "yes",
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1101",
+    "name": {
+      "first": "Dana",
+      "last": "Abbas"
+    },
+    "email": "dana.abbas@yahoo.com",
+    "phone": "+971512513132",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "66606"
+    },
+    "signup_date": "2023-08-30",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1102",
+    "name": {
+      "first": "Olivia",
+      "last": "Abbas"
+    },
+    "email": "olivia.abbas@gmail.com",
+    "phone": "+1544244334",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "97819"
+    },
+    "signup_date": "03 May 2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1103",
+    "name": {
+      "first": "Dana",
+      "last": "Brown"
+    },
+    "email": "dana361@gmail.com",
+    "phone": "+971577566910",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "76507"
+    },
+    "signup_date": "April 16, 2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1104",
+    "name": {
+      "first": "Emma",
+      "last": "Davis"
+    },
+    "email": "emma.davis@gmail.com",
+    "phone": "+20515419645",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "46512"
+    },
+    "signup_date": "August 10, 2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1105",
+    "name": {
+      "first": "Ava",
+      "last": "Wilson"
+    },
+    "email": "ava.wilson@gmail.com",
+    "phone": "+20503886030",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "33647"
+    },
+    "signup_date": "2024-02-15",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1106",
+    "name": {
+      "first": "Mia",
+      "last": "Smith"
+    },
+    "email": "mia.smith@gmail.com",
+    "phone": "+1588227303",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "62531"
+    },
+    "signup_date": "13/01/2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1107",
+    "name": {
+      "first": "Sophia",
+      "last": "Al-Rashid"
+    },
+    "email": "sophia.alrashid@yahoo.com",
+    "phone": "+962545754284",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "30631"
+    },
+    "signup_date": "23/12/2023",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1108",
+    "name": {
+      "first": "Sophia",
+      "last": "Smith"
+    },
+    "email": "sophia.smith@yahoo.com",
+    "phone": "+971520881581",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "30632"
+    },
+    "signup_date": "08 Mar 2024",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1109",
+    "name": {
+      "first": "Karim",
+      "last": "Jones"
+    },
+    "email": "karim425@gmail.com",
+    "phone": "+20528933176",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "77154"
+    },
+    "signup_date": "05-19-2023",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1110",
+    "name": {
+      "first": "Hana",
+      "last": "Khalil"
+    },
+    "email": "hana.khalil@gmail.com",
+    "phone": "+971529597483",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "61807"
+    },
+    "signup_date": "24 Sep 2023",
+    "is_active": 1,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1111",
+    "name": {
+      "first": "Ahmed",
+      "last": "Saleh"
+    },
+    "email": "ahmed.saleh@gmail.com",
+    "phone": "+20544039837",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "25726"
+    },
+    "signup_date": "09/03/2022",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1112",
+    "name": {
+      "first": "Sophia",
+      "last": "Brown"
+    },
+    "email": "sophia.brown@gmail.com",
+    "phone": "+966567144075",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "83233"
+    },
+    "signup_date": "09-22-2021",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1113",
+    "name": {
+      "first": "Tariq",
+      "last": "Haddad"
+    },
+    "email": "tariq.haddad@gmail.com",
+    "phone": "+20577277086",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "66267"
+    },
+    "signup_date": "02-08-2021",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1114",
+    "name": {
+      "first": "Mona",
+      "last": "Khalil"
+    },
+    "email": "mona.khalil@yahoo.com",
+    "phone": "+1561753160",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "57428"
+    },
+    "signup_date": "February 12, 2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1115",
+    "name": {
+      "first": "Ava",
+      "last": "Khalil"
+    },
+    "email": "ava.khalil@gmail.com",
+    "phone": "+971553118906",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "50668"
+    },
+    "signup_date": "12 Jun 2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1116",
+    "name": {
+      "first": "Ali",
+      "last": "Nasser"
+    },
+    "email": "ali.nasser@gmail.com",
+    "phone": "+966546892354",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "56019"
+    },
+    "signup_date": "2023-11-12",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1117",
+    "name": {
+      "first": "Fatima",
+      "last": "Abbas"
+    },
+    "email": "fatima.abbas@gmail.com",
+    "phone": "+971523776150",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "92306"
+    },
+    "signup_date": "09/02/2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1118",
+    "name": {
+      "first": "David",
+      "last": "Jones"
+    },
+    "email": "david.jones@yahoo.com",
+    "phone": "+20520261159",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "67640"
+    },
+    "signup_date": "02 Mar 2024",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1119",
+    "name": {
+      "first": "Rami",
+      "last": "Mustafa"
+    },
+    "email": "rami.mustafa@yahoo.com",
+    "phone": "+1509957701",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "50685"
+    },
+    "signup_date": "17 Jul 2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1120",
+    "name": {
+      "first": "Sara",
+      "last": "haddad"
+    },
+    "email": "sara.haddad@gmail.com",
+    "phone": "+971582545028",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "87867"
+    },
+    "signup_date": "2022-08-11",
+    "is_active": 1,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1121",
+    "name": {
+      "first": "Rami",
+      "last": "Wilson"
+    },
+    "email": "rami.wilson@gmail.com",
+    "phone": "+1587488142",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "34672"
+    },
+    "signup_date": "03-26-2021",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1122",
+    "name": {
+      "first": "Lina",
+      "last": "Miller"
+    },
+    "email": "lina.miller@yahoo.com",
+    "phone": "+20595873810",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "21053"
+    },
+    "signup_date": "05-07-2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1123",
+    "name": {
+      "first": "Nour",
+      "last": "Jones"
+    },
+    "email": "nour.jones@gmail.com",
+    "phone": "+20550043345",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "47079"
+    },
+    "signup_date": "10 Dec 2023",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1124",
+    "name": {
+      "first": "David",
+      "last": "Smith"
+    },
+    "email": "david.smith@yahoo.com",
+    "phone": "+971574888554",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "98916"
+    },
+    "signup_date": "April 18, 2021",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1125",
+    "name": {
+      "first": "Karim",
+      "last": "Abbas"
+    },
+    "email": "karim.abbas@gmail.com",
+    "phone": "+20541638598",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "95990"
+    },
+    "signup_date": "16 Jun 2021",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1126",
+    "name": {
+      "first": "Dina",
+      "last": "Mansour"
+    },
+    "email": "dina.mansour@gmail.com",
+    "phone": "+20517152188",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "97833"
+    },
+    "signup_date": "02-19-2024",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1127",
+    "name": {
+      "first": "Ziad",
+      "last": "Johnson"
+    },
+    "email": "ziad.johnson@yahoo.com",
+    "phone": "+966545866538",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "73736"
+    },
+    "signup_date": "January 13, 2023",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1128",
+    "name": {
+      "first": "Youssef",
+      "last": "Abbas"
+    },
+    "email": "youssef.abbas@gmail.com",
+    "phone": "+1599139119",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "79013"
+    },
+    "signup_date": "2022-08-29",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1129",
+    "name": {
+      "first": "Robert",
+      "last": "Abbas"
+    },
+    "email": "robert.abbas@yahoo.com",
+    "phone": "+1522218290",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "67366"
+    },
+    "signup_date": "11/02/2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1130",
+    "name": {
+      "first": "Dana",
+      "last": "Farah"
+    },
+    "email": "dana.farah@yahoo.com",
+    "phone": "+966541536077",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": null
+    },
+    "signup_date": "08-07-2022",
+    "is_active": "no",
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1131",
+    "name": {
+      "first": "Dana",
+      "last": "Jones"
+    },
+    "email": "dana.jones@gmail.com",
+    "phone": "+962521751079",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "36174"
+    },
+    "signup_date": "08-01-2022",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1132",
+    "name": {
+      "first": "Sara",
+      "last": "Davis"
+    },
+    "email": "sara.davis@gmail.com",
+    "phone": "+1516733967",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "47363"
+    },
+    "signup_date": "31 Jan 2023",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1133",
+    "name": {
+      "first": "Karim",
+      "last": "Jones"
+    },
+    "email": "karim94@gmail.com",
+    "phone": "+966560549373",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "55820"
+    },
+    "signup_date": "18/11/2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1134",
+    "name": {
+      "first": "Sara",
+      "last": "Williams"
+    },
+    "email": "sara.williams@yahoo.com",
+    "phone": "+971550319927",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "39430"
+    },
+    "signup_date": "05/02/2023",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1135",
+    "name": {
+      "first": "Mia",
+      "last": "Khalil"
+    },
+    "email": "mia.khalil@yahoo.com",
+    "phone": "+20563411827",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "28191"
+    },
+    "signup_date": "18/11/2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1136",
+    "name": {
+      "first": "Dina",
+      "last": "Al-Rashid"
+    },
+    "email": "dina.alrashid@yahoo.com",
+    "phone": "+966573659258",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "89807"
+    },
+    "signup_date": "2021-06-12",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1137",
+    "name": {
+      "first": "David",
+      "last": "Mustafa"
+    },
+    "email": "david.mustafa@yahoo.com",
+    "phone": "+962585758649",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "91633"
+    },
+    "signup_date": "2022-09-09",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1138",
+    "name": {
+      "first": "Fatima",
+      "last": "Davis"
+    },
+    "email": "fatima.davis@gmail.com",
+    "phone": "+1532472386",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "28818"
+    },
+    "signup_date": "2024-01-03",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1139",
+    "name": {
+      "first": "Ahmed",
+      "last": "Johnson"
+    },
+    "email": "ahmed.johnson@yahoo.com",
+    "phone": "+971570260907",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "57265"
+    },
+    "signup_date": "03-14-2024",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1140",
+    "name": {
+      "first": "Reem",
+      "last": "Miller"
+    },
+    "email": "reem.miller@yahoo.com",
+    "phone": "+971555123456",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "93318"
+    },
+    "signup_date": "06 Nov 2023",
+    "is_active": "no",
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1141",
+    "name": {
+      "first": "Karim",
+      "last": "Al-Rashid"
+    },
+    "email": "karim.alrashid@yahoo.com",
+    "phone": "+971578101741",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "53583"
+    },
+    "signup_date": "May 19, 2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1142",
+    "name": {
+      "first": "Dana",
+      "last": "Wilson"
+    },
+    "email": "dana.wilson@gmail.com",
+    "phone": "+962584790150",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "33891"
+    },
+    "signup_date": "12-25-2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1143",
+    "name": {
+      "first": "Michael",
+      "last": "Jones"
+    },
+    "email": "michael205@gmail.com",
+    "phone": "+971542358553",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "50642"
+    },
+    "signup_date": "24/08/2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1144",
+    "name": {
+      "first": "Lina",
+      "last": "Ibrahim"
+    },
+    "email": "lina.ibrahim@yahoo.com",
+    "phone": "+971588010774",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "53506"
+    },
+    "signup_date": "January 27, 2022",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1145",
+    "name": {
+      "first": "Olivia",
+      "last": "Johnson"
+    },
+    "email": "olivia.johnson@gmail.com",
+    "phone": "+962545504725",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "34486"
+    },
+    "signup_date": "03-31-2023",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1146",
+    "name": {
+      "first": "Dana",
+      "last": "Miller"
+    },
+    "email": "dana.miller@yahoo.com",
+    "phone": "+1524220459",
+    "address": {
+      "city": "Cairo",
+      "country": "Egypt",
+      "postal_code": "81496"
+    },
+    "signup_date": "06-19-2021",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1147",
+    "name": {
+      "first": "Fatima",
+      "last": "Mansour"
+    },
+    "email": "fatima735@gmail.com",
+    "phone": "+962522366682",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "68183"
+    },
+    "signup_date": "August 29, 2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1148",
+    "name": {
+      "first": "Sara",
+      "last": "Johnson"
+    },
+    "email": "sara.johnson@gmail.com",
+    "phone": "+971510071854",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "97973"
+    },
+    "signup_date": "June 10, 2023",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1149",
+    "name": {
+      "first": "Ziad",
+      "last": "Nasser"
+    },
+    "email": "ziad.nasser@gmail.com",
+    "phone": "+962504670638",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "26545"
+    },
+    "signup_date": "20 Oct 2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1150",
+    "name": {
+      "first": "David",
+      "last": "Johnson"
+    },
+    "email": null,
+    "phone": "+966591142166",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "68972"
+    },
+    "signup_date": "24 Feb 2023",
+    "is_active": "yes",
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1151",
+    "name": {
+      "first": "Rami",
+      "last": "Mansour"
+    },
+    "email": "rami.mansour@yahoo.com",
+    "phone": "+20587182566",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "46528"
+    },
+    "signup_date": "09 Oct 2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1152",
+    "name": {
+      "first": "Ahmed",
+      "last": "Nasser"
+    },
+    "email": "ahmed.nasser@gmail.com",
+    "phone": "+971535135070",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "44116"
+    },
+    "signup_date": "11-27-2023",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1153",
+    "name": {
+      "first": "Dina",
+      "last": "Mustafa"
+    },
+    "email": "dina874@gmail.com",
+    "phone": "+971560672142",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "32630"
+    },
+    "signup_date": "03/10/2023",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1154",
+    "name": {
+      "first": "Olivia",
+      "last": "Smith"
+    },
+    "email": "olivia.smith@gmail.com",
+    "phone": "+20540259503",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "30644"
+    },
+    "signup_date": "2022-12-13",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1155",
+    "name": {
+      "first": "Ziad",
+      "last": "Farah"
+    },
+    "email": "ziad.farah@yahoo.com",
+    "phone": "+962503527782",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "57303"
+    },
+    "signup_date": "16/02/2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1156",
+    "name": {
+      "first": "Olivia",
+      "last": "Wilson"
+    },
+    "email": "olivia.wilson@yahoo.com",
+    "phone": "+962570557676",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "63843"
+    },
+    "signup_date": "2021-06-26",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1157",
+    "name": {
+      "first": "Omar",
+      "last": "Abbas"
+    },
+    "email": "omar530@gmail.com",
+    "phone": "+20517224779",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "82260"
+    },
+    "signup_date": "06-01-2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1158",
+    "name": {
+      "first": "Hana",
+      "last": "Miller"
+    },
+    "email": "hana.miller@gmail.com",
+    "phone": "+20522099899",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "31229"
+    },
+    "signup_date": "2021-04-24",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1159",
+    "name": {
+      "first": "Dana",
+      "last": "Miller"
+    },
+    "email": "dana651@gmail.com",
+    "phone": "+1536836194",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "26406"
+    },
+    "signup_date": "2022-08-05",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1160",
+    "name": {
+      "first": "Reem",
+      "last": "Mansour"
+    },
+    "email": "reem.mansour@gmail.com",
+    "phone": "+966522978158",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "96341"
+    },
+    "signup_date": "12 Dec 2021",
+    "is_active": 1,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1161",
+    "name": {
+      "first": "Ali",
+      "last": "Haddad"
+    },
+    "email": "ali.haddad@yahoo.com",
+    "phone": "+1535521514",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "95344"
+    },
+    "signup_date": "2021-02-28",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1162",
+    "name": {
+      "first": "Hana",
+      "last": "Al-Rashid"
+    },
+    "email": "hana.alrashid@gmail.com",
+    "phone": "+20564819756",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "42096"
+    },
+    "signup_date": "January 23, 2024",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1163",
+    "name": {
+      "first": "Rami",
+      "last": "Mansour"
+    },
+    "email": "rami.mansour@gmail.com",
+    "phone": "+962562336371",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "36741"
+    },
+    "signup_date": "03/05/2021",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1164",
+    "name": {
+      "first": "Youssef",
+      "last": "Smith"
+    },
+    "email": "youssef.smith@gmail.com",
+    "phone": "+966549733063",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "77499"
+    },
+    "signup_date": "October 16, 2022",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1165",
+    "name": {
+      "first": "Nour",
+      "last": "Jones"
+    },
+    "email": "nour.jones@yahoo.com",
+    "phone": "+971506792127",
+    "address": {
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "postal_code": "48038"
+    },
+    "signup_date": "07-02-2022",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1166",
+    "name": {
+      "first": "Hana",
+      "last": "Farah"
+    },
+    "email": "hana.farah@gmail.com",
+    "phone": "+20525479101",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "30885"
+    },
+    "signup_date": "November 24, 2021",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1167",
+    "name": {
+      "first": "Rami",
+      "last": "Davis"
+    },
+    "email": "rami.davis@yahoo.com",
+    "phone": "+962567839607",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "69930"
+    },
+    "signup_date": "09-24-2022",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1168",
+    "name": {
+      "first": "Sami",
+      "last": "Johnson"
+    },
+    "email": "sami.johnson@gmail.com",
+    "phone": "+962538352498",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "80345"
+    },
+    "signup_date": "April 14, 2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1169",
+    "name": {
+      "first": "Hana",
+      "last": "Abbas"
+    },
+    "email": "hana.abbas@gmail.com",
+    "phone": "+20506072331",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "62505"
+    },
+    "signup_date": "June 26, 2022",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1170",
+    "name": {
+      "first": "Reem",
+      "last": "Saleh"
+    },
+    "email": "reem.saleh@yahoo.com",
+    "phone": "+1560445541",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "82070"
+    },
+    "signup_date": "February 08, 2024",
+    "is_active": "yes",
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1171",
+    "name": {
+      "first": "Emma",
+      "last": "Khalil"
+    },
+    "email": "emma.khalil@yahoo.com",
+    "phone": "+20574870921",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "57920"
+    },
+    "signup_date": "07-18-2021",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1172",
+    "name": {
+      "first": "Dina",
+      "last": "Miller"
+    },
+    "email": "dina.miller@yahoo.com",
+    "phone": "+966595776676",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "53652"
+    },
+    "signup_date": "2023-10-22",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1173",
+    "name": {
+      "first": "Rami",
+      "last": "Abbas"
+    },
+    "email": "rami.abbas@yahoo.com",
+    "phone": "+1542752377",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "31299"
+    },
+    "signup_date": "22/11/2023",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1174",
+    "name": {
+      "first": "Sophia",
+      "last": "Mustafa"
+    },
+    "email": "sophia.mustafa@gmail.com",
+    "phone": "+1565746104",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "83783"
+    },
+    "signup_date": "20 Nov 2022",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1175",
+    "name": {
+      "first": "James",
+      "last": "Al-Rashid"
+    },
+    "email": "james.alrashid@gmail.com",
+    "phone": "+1541295819",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "92478"
+    },
+    "signup_date": "2022-11-10",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1176",
+    "name": {
+      "first": "Lina",
+      "last": "Ibrahim"
+    },
+    "email": "lina53@gmail.com",
+    "phone": "+1564484744",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "32349"
+    },
+    "signup_date": "30 Mar 2024",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1177",
+    "name": {
+      "first": "James",
+      "last": "Farah"
+    },
+    "email": "james.farah@yahoo.com",
+    "phone": "+962542103092",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "64890"
+    },
+    "signup_date": "2024-03-18",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1178",
+    "name": {
+      "first": "Michael",
+      "last": "Saleh"
+    },
+    "email": "michael.saleh@gmail.com",
+    "phone": "+971594727548",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "28098"
+    },
+    "signup_date": "25 Oct 2023",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1179",
+    "name": {
+      "first": "Ali",
+      "last": "Davis"
+    },
+    "email": "ali.davis@gmail.com",
+    "phone": "+962571555103",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "54869"
+    },
+    "signup_date": "February 11, 2023",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1180",
+    "name": {
+      "first": "Dina",
+      "last": "Davis"
+    },
+    "email": "dina.davis@gmail.com",
+    "phone": "+966539945150",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "47880"
+    },
+    "signup_date": "May 20, 2022",
+    "is_active": 0,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1181",
+    "name": {
+      "first": "Michael",
+      "last": "Davis"
+    },
+    "email": "michael.davis@gmail.com",
+    "phone": "+20538626436",
+    "address": {
+      "city": "Amman",
+      "country": "Jordan",
+      "postal_code": "25974"
+    },
+    "signup_date": "September 10, 2023",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1182",
+    "name": {
+      "first": "James",
+      "last": "Johnson"
+    },
+    "email": "james.johnson@yahoo.com",
+    "phone": "+971546488123",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "67983"
+    },
+    "signup_date": "October 27, 2021",
+    "is_active": false,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1183",
+    "name": {
+      "first": "Hassan",
+      "last": "Saleh"
+    },
+    "email": "hassan.saleh@gmail.com",
+    "phone": "+20518424464",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia",
+      "postal_code": "24316"
+    },
+    "signup_date": "January 09, 2024",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1184",
+    "name": {
+      "first": "Sara",
+      "last": "Miller"
+    },
+    "email": "sara.miller@yahoo.com",
+    "phone": "+20596282168",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "71918"
+    },
+    "signup_date": "2022-04-22",
+    "is_active": true,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1185",
+    "name": {
+      "first": "Ahmed",
+      "last": "Wilson"
+    },
+    "email": "ahmed.wilson@gmail.com",
+    "phone": "+962564082055",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "95267"
+    },
+    "signup_date": "11-20-2021",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1186",
+    "name": {
+      "first": "Ali",
+      "last": "Mustafa"
+    },
+    "email": "ali.mustafa@gmail.com",
+    "phone": "+966571826922",
+    "address": {
+      "city": "New York",
+      "country": "USA",
+      "postal_code": "14888"
+    },
+    "signup_date": "2021-05-02",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1187",
+    "name": {
+      "first": "Robert",
+      "last": "Nasser"
+    },
+    "email": "robert.nasser@gmail.com",
+    "phone": "+966538851599",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "14910"
+    },
+    "signup_date": "03-16-2021",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1188",
+    "name": {
+      "first": "Sami",
+      "last": "Khalil"
+    },
+    "email": "sami657@gmail.com",
+    "phone": "+1570372842",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany",
+      "postal_code": "74738"
+    },
+    "signup_date": "November 18, 2022",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1189",
+    "name": {
+      "first": "Rami",
+      "last": "Ibrahim"
+    },
+    "email": "rami.ibrahim@yahoo.com",
+    "phone": "+962587011385",
+    "address": {
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "postal_code": "43720"
+    },
+    "signup_date": "August 19, 2021",
+    "is_active": true,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1190",
+    "name": {
+      "first": "Sophia",
+      "last": "Smith"
+    },
+    "email": "sophia.smith@gmail.com",
+    "phone": "+966523554528",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada",
+      "postal_code": "90079"
+    },
+    "signup_date": "28 Aug 2022",
+    "is_active": 0,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1191",
+    "name": {
+      "first": "James",
+      "last": "Brown"
+    },
+    "email": "james.brown@gmail.com",
+    "phone": "+971524800912",
+    "address": {
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "postal_code": "28430"
+    },
+    "signup_date": "2022-11-03",
+    "is_active": false,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1192",
+    "name": {
+      "first": "Mia",
+      "last": "Farah"
+    },
+    "email": "mia.farah@yahoo.com",
+    "phone": "+20544241559",
+    "address": {
+      "city": "Dubai",
+      "country": "UAE",
+      "postal_code": "49576"
+    },
+    "signup_date": "06-19-2022",
+    "is_active": true,
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "CUST-1193",
+    "name": {
+      "first": "John",
+      "last": "Johnson"
+    },
+    "email": "john.johnson@gmail.com",
+    "phone": "+962541178850",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "30934"
+    },
+    "signup_date": "2022-04-29",
+    "is_active": false,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1194",
+    "name": {
+      "first": "Mia",
+      "last": "Mustafa"
+    },
+    "email": "mia.mustafa@yahoo.com",
+    "phone": "+966529410942",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "27507"
+    },
+    "signup_date": "August 29, 2021",
+    "is_active": false,
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "CUST-1195",
+    "name": {
+      "first": "Rami",
+      "last": "Johnson"
+    },
+    "email": "rami822@gmail.com",
+    "phone": "+966533214247",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "99173"
+    },
+    "signup_date": "01-30-2024",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1196",
+    "name": {
+      "first": "Rami",
+      "last": "Miller"
+    },
+    "email": "rami.miller@gmail.com",
+    "phone": "+971508289024",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "81781"
+    },
+    "signup_date": "2023-01-11",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1197",
+    "name": {
+      "first": "Reem",
+      "last": "Abbas"
+    },
+    "email": "reem.abbas@gmail.com",
+    "phone": "+966596223100",
+    "address": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "postal_code": "86434"
+    },
+    "signup_date": "03 Nov 2022",
+    "is_active": false,
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "CUST-1198",
+    "name": {
+      "first": "Robert",
+      "last": "Miller"
+    },
+    "email": "robert.miller@yahoo.com",
+    "phone": "+962561310453",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "83912"
+    },
+    "signup_date": "04-24-2021",
+    "is_active": true,
+    "loyalty_tier": null
+  },
+  {
+    "customer_id": "CUST-1199",
+    "name": {
+      "first": "Rami",
+      "last": "Mustafa"
+    },
+    "email": "rami4@gmail.com",
+    "phone": "+966577619624",
+    "address": {
+      "city": "London",
+      "country": "UK",
+      "postal_code": "19572"
+    },
+    "signup_date": "02-14-2021",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1000",
+    "name": {
+      "first": "Layla",
+      "last": "Brown"
+    },
+    "email": "layla.brown@gmail.com",
+    "phone": "+971522097220",
+    "address": {
+      "city": "Doha",
+      "country": "Qatar",
+      "postal_code": "59672"
+    },
+    "signup_date": "13/09/2023",
+    "is_active": true,
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1050",
+    "name": {
+      "first": "FATIMA",
+      "last": "Al-Rashid"
+    },
+    "email": "fatima.alrashid@gmail.com",
+    "phone": "+20524744872",
+    "address": {
+      "city": "Muscat",
+      "country": "Oman",
+      "postal_code": "16734"
+    },
+    "signup_date": "08-06-2022",
+    "is_active": "yes",
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "CUST-1100",
+    "name": {
+      "first": "RAMI",
+      "last": "Farah"
+    },
+    "email": "rami.farah@yahoo.com",
+    "phone": "+971541949529",
+    "address": {
+      "city": "Beirut",
+      "country": "Lebanon",
+      "postal_code": "65936"
+    },
+    "signup_date": "11-26-2022",
+    "is_active": "yes",
+    "loyalty_tier": "Gold"
+  }
+]

@@ -1,0 +1,501 @@
+review_id,product_id,customer_id,rating,review_text,review_date,verified_purchase,helpful_votes
+REV-5000,PROD-101,CUST-1122,2,Customer service was unhelpful.,2023-11-13,True,
+REV-5001,PROD-138,CUST-1110,5/5,"Five stars, absolutely amazing!",2023-08-27,Yes,8.0
+REV-5002,PROD-108,CUST-1175,3,"Great product, exactly what I needed!",2023-11-10,no,18.0
+REV-5003,PROD-102,CUST-1157,2/5,Best purchase I've made this year.,2023-06-18,0,49.0
+REV-5004,PROD-140,CUST-1151,4,Stopped working after a month.,2024-08-27,False,11.0
+REV-5005,PROD-115,CUST-1000,3,"Arrived damaged, had to return.",2024-08-18,Yes,50.0
+REV-5006,PROD-132,CUST-1188,1/5,"Arrived damaged, had to return.",2023-06-28,no,25.0
+REV-5007,PROD-117,CUST-1132,1.0,Stopped working after a month.,2023-06-14,0,37.0
+REV-5008,PROD-101,CUST-1104,1,Would not recommend to anyone.,2023-07-14,Yes,14.0
+REV-5009,PROD-121,CUST-1125,1,Best purchase I've made this year.,2024-03-09,yes,12.0
+REV-5010,PROD-999,CUST-1114,1,Waste of money.,2024-05-29,N,1.0
+REV-5011,PROD-107,CUST-1171,5/5,Exceeded my expectations!,2023-12-21,N,28.0
+REV-5012,PROD-116,CUST-1134,4,"Fast shipping, item works perfectly.",2023-08-05,0,
+REV-5013,PROD-103,CUST-1193,3,,2023-06-26,No,
+REV-5014,PROD-137,CUST-1060,3.7,"Arrived damaged, had to return.",2025-01-20,No,36.0
+REV-5014,PROD-148,CUST-1044,3,,2024-04-20,N,2.0
+REV-5016,PROD-137,CUST-1126,3,Good value for money.,2024-11-23,no,28.0
+REV-5017,PROD-143,CUST-1097,1,"Fast shipping, item works perfectly.",2024-07-25,no,3.0
+REV-5018,PROD-131,CUST-1046,4,Love this! Will buy again.,2024-08-21,N,37.0
+REV-5019,PROD-136,CUST-1042,1.0,"Fast shipping, item works perfectly.",2024-02-26,Yes,3.0
+REV-5020,PROD-132,CUST-1040,4,"Great product, exactly what I needed!",2023-07-27,True,
+REV-5021,PROD-134,CUST-1199,1,"Fast shipping, item works perfectly.",2024-10-29,No,
+REV-5022,PROD-128,CUST-1007,1,Good value for money.,2024-11-02,Y,16.0
+REV-5023,PROD-119,CUST-1115,5/5,Stopped working after a month.,2023-10-02,Y,14.0
+REV-5024,PROD-136,CUST-1006,4,"Terrible quality, broke after a week.",2023-08-03,1,30.0
+REV-5025,PROD-142,CUST-1152,1,Good value for money.,2024-04-02,yes,31.0
+REV-5026,PROD-143,CUST-1038,5,Best purchase I've made this year.,2024-10-29,N,42.0
+REV-5027,PROD-130,CUST-1148,1,Stopped working after a month.,2023-08-30,1,
+REV-5028,PROD-135,CUST-1057,2,Best purchase I've made this year.,2024-12-23,False,29.0
+REV-5029,PROD-137,CUST-1156,4,"Arrived damaged, had to return.",2024-03-16,no,39.0
+REV-5030,PROD-127,CUST-1143,1,Best purchase I've made this year.,2023-11-04,yes,22.0
+REV-5031,PROD-137,CUST-1146,2,Would not recommend to anyone.,2024-10-27,True,34.0
+REV-5032,PROD-144,CUST-1035,five,Best purchase I've made this year.,2024-08-20,0,48.0
+REV-5033,PROD-133,CUST-1159,four,Good value for money.,2023-06-23,True,
+REV-5034,PROD-107,CUST-1052,5,"Not as described, very disappointed.",2023-11-15,no,46.0
+REV-5035,PROD-126,CUST-1082,1.0,"Not as described, very disappointed.",2024-02-16,1,44.0
+REV-5036,PROD-101,CUST-1031,2,Waste of money.,2024-02-24,False,12.0
+REV-5037,PROD-144,CUST-1193,3,Good value for money.,2024-09-24,Y,16.0
+REV-5038,PROD-138,CUST-1186,5.0,,2024-12-06,1,35.0
+REV-5039,PROD-109,CUST-1057,1,"Two stars at best, poor quality.",2023-09-16,yes,40.0
+REV-5040,PROD-124,CUST-1178,3,Best purchase I've made this year.,2024-02-10,N,19.0
+REV-5041,PROD-132,CUST-1080,4,"Terrible quality, broke after a week.",2024-02-23,No,8.0
+REV-5042,PROD-146,CUST-1092,five,Best purchase I've made this year.,2024-10-02,Yes,4.0
+REV-5043,PROD-130,CUST-1101,1,Easy to use and very durable.,2024-12-20,no,45.0
+REV-5044,PROD-141,CUST-1066,2/5,"Two stars at best, poor quality.",2025-01-14,Yes,0.0
+REV-5045,PROD-103,CUST-1148,1,"Terrible quality, broke after a week.",2024-11-25,True,24.0
+REV-5046,PROD-143,CUST-1105,3,,2024-10-22,1,0.0
+REV-5047,PROD-119,CUST-1146,3,The color was different from the picture.,2023-06-30,False,12.0
+REV-5048,PROD-132,CUST-1062,5/5,Stopped working after a month.,2023-10-12,True,24.0
+REV-5049,PROD-108,CUST-1154,2,Would not recommend to anyone.,2024-05-08,Yes,
+REV-5050,PROD-888,CUST-1109,4,Customer service was unhelpful.,2024-09-05,0,8.0
+REV-5051,PROD-139,CUST-1023,1,Love this! Will buy again.,2023-09-11,True,33.0
+REV-5052,PROD-140,CUST-1003,four,"Five stars, absolutely amazing!",2024-12-01,Y,30.0
+REV-5053,PROD-145,CUST-1113,4,"Great product, exactly what I needed!",2024-06-01,True,45.0
+REV-5054,PROD-126,CUST-1042,3,,2023-09-22,Y,47.0
+REV-5055,PROD-148,CUST-1012,4,Stopped working after a month.,2024-11-27,yes,16.0
+REV-5056,PROD-132,CUST-1083,2,Stopped working after a month.,2024-10-28,True,
+REV-5057,PROD-143,CUST-1050,4,Good value for money.,2023-10-28,No,12.0
+REV-5058,PROD-109,CUST-1174,4,Good value for money.,2024-10-16,0,49.0
+REV-5059,PROD-125,CUST-1043,2,,2024-10-14,Y,43.0
+REV-5060,PROD-110,CUST-1015,1.0,Good value for money.,2024-12-07,N,15.0
+REV-5061,PROD-102,CUST-1083,3.0,Love this! Will buy again.,2024-01-22,yes,14.0
+REV-5062,PROD-121,CUST-1131,two,,2023-09-15,1,32.0
+REV-5063,PROD-118,CUST-1065,5,Stopped working after a month.,2024-02-16,True,3.0
+REV-5064,PROD-134,CUST-1115,2,"Arrived damaged, had to return.",2024-01-09,No,
+REV-5065,PROD-143,CUST-1131,3,"Arrived damaged, had to return.",2024-10-27,1,36.0
+REV-5066,PROD-137,CUST-1078,4,Easy to use and very durable.,2023-08-02,0,8.0
+REV-5067,PROD-130,CUST-1022,1,"Two stars at best, poor quality.",2023-07-08,Y,24.0
+REV-5068,PROD-145,CUST-1151,3,Love this! Will buy again.,2024-01-18,no,50.0
+REV-5069,PROD-106,CUST-1040,2,"Five stars, absolutely amazing!",2024-07-06,no,33.0
+REV-5070,PROD-132,CUST-1029,1,,2023-07-16,no,0.0
+REV-5071,PROD-101,CUST-1130,1,"Two stars at best, poor quality.",2023-07-01,Y,43.0
+REV-5072,PROD-130,CUST-1021,4/5,Exceeded my expectations!,2024-12-12,False,5.0
+REV-5073,PROD-118,CUST-1164,1,"Five stars, absolutely amazing!",2024-02-05,Y,50.0
+REV-5074,PROD-130,CUST-1080,3,"Five stars, absolutely amazing!",2023-12-17,False,50.0
+REV-5074,PROD-106,CUST-1117,1/5,Best purchase I've made this year.,2023-06-18,yes,
+REV-5076,PROD-117,CUST-1176,3,,2023-06-21,1,42.0
+REV-5077,PROD-124,CUST-1094,four,Good value for money.,2024-07-07,No,14.0
+REV-5078,PROD-118,CUST-1197,1,"Terrible quality, broke after a week.",2024-03-02,Y,23.0
+REV-5079,PROD-149,CUST-1096,5,"Five stars, absolutely amazing!",2023-10-23,N,10.0
+REV-5080,PROD-124,CUST-1138,five,"Arrived damaged, had to return.",2024-01-26,Y,36.0
+REV-5081,PROD-107,CUST-1093,4,,2023-08-14,N,23.0
+REV-5082,PROD-129,CUST-1032,1.0,,2024-01-29,No,44.0
+REV-5083,PROD-148,CUST-1097,3,,2023-12-09,No,0.0
+REV-5084,PROD-148,CUST-1092,5.0,Easy to use and very durable.,2024-09-15,No,29.0
+REV-5085,PROD-118,CUST-1024,1,"Arrived damaged, had to return.",2023-08-16,yes,38.0
+REV-5086,PROD-145,CUST-1085,5,Good value for money.,2024-10-01,0,
+REV-5087,PROD-145,CUST-1088,3,Stopped working after a month.,2024-12-18,0,2.0
+REV-5088,PROD-120,CUST-1127,4,"Five stars, absolutely amazing!",2024-06-10,Yes,3.0
+REV-5089,PROD-104,CUST-1117,4,"Fast shipping, item works perfectly.",2023-07-25,True,30.0
+REV-5090,PROD-111,CUST-1001,5,,2024-03-13,0,33.0
+REV-5091,PROD-111,CUST-1018,2,"Arrived damaged, had to return.",2024-08-03,False,
+REV-5092,PROD-104,CUST-1023,1,Stopped working after a month.,2023-07-31,Yes,29.0
+REV-5093,PROD-106,CUST-1013,2.3,"Fast shipping, item works perfectly.",2024-08-25,no,
+REV-5094,PROD-129,CUST-1129,2.9,The color was different from the picture.,2023-08-28,Y,44.0
+REV-5095,PROD-118,CUST-1146,2,Waste of money.,2024-12-20,False,16.0
+REV-5096,PROD-117,CUST-1036,4,Exceeded my expectations!,2024-11-09,True,5.0
+REV-5097,PROD-113,CUST-1011,1/5,"Arrived damaged, had to return.",2024-05-06,N,43.0
+REV-5098,PROD-111,CUST-1112,1,Would not recommend to anyone.,2024-06-03,False,9.0
+REV-5099,PROD-126,CUST-1139,5/5,Waste of money.,2024-03-06,0,35.0
+REV-5100,PROD-777,CUST-1081,3,Best purchase I've made this year.,2023-11-29,True,8.0
+REV-5101,PROD-103,CUST-1100,3,"Two stars at best, poor quality.",2023-07-22,False,23.0
+REV-5102,PROD-125,CUST-1085,2,Easy to use and very durable.,2024-12-05,No,
+REV-5103,PROD-140,CUST-1021,3,Solid build quality.,2023-09-11,Y,6.0
+REV-5104,PROD-138,CUST-1180,1/5,Best purchase I've made this year.,2024-03-29,Yes,11.0
+REV-5105,PROD-110,CUST-1178,1,"Average product, nothing special.",2024-03-01,Yes,42.0
+REV-5106,PROD-108,CUST-1002,2,Waste of money.,2023-07-31,Yes,
+REV-5107,PROD-107,CUST-1112,3,"Two stars at best, poor quality.",2024-02-21,False,
+REV-5108,PROD-118,CUST-1118,1,"Terrible quality, broke after a week.",2023-10-11,False,37.0
+REV-5109,PROD-143,CUST-1002,3,The color was different from the picture.,2023-07-20,N,19.0
+REV-5110,PROD-149,CUST-1008,1,Waste of money.,2023-10-08,Yes,44.0
+REV-5111,PROD-148,CUST-1076,3/5,"Not as described, very disappointed.",2024-12-07,no,21.0
+REV-5112,PROD-139,CUST-1095,5,Easy to use and very durable.,2024-02-05,yes,
+REV-5113,PROD-124,CUST-1124,1/5,"Five stars, absolutely amazing!",2024-07-22,Yes,25.0
+REV-5114,PROD-136,CUST-1183,4,Perfect gift for my friend.,2024-07-01,Yes,15.0
+REV-5115,PROD-130,CUST-1145,5,The color was different from the picture.,2023-12-16,N,23.0
+REV-5116,PROD-114,CUST-1117,1/5,"Average product, nothing special.",2024-10-15,False,13.0
+REV-5117,PROD-110,CUST-1097,three,"Fast shipping, item works perfectly.",2024-01-04,1,6.0
+REV-5118,PROD-129,CUST-1179,5,Would not recommend to anyone.,2025-01-07,no,6.0
+REV-5119,PROD-104,CUST-1164,one,Waste of money.,2023-07-11,Yes,0.0
+REV-5120,PROD-140,CUST-1022,4.9,Solid build quality.,2023-09-28,no,39.0
+REV-5121,PROD-100,CUST-1193,3,"Five stars, absolutely amazing!",2024-05-08,Y,34.0
+REV-5122,PROD-128,CUST-1079,3.0,"Terrible quality, broke after a week.",2024-08-07,no,15.0
+REV-5123,PROD-126,CUST-1047,2,,2024-11-15,0,1.0
+REV-5124,PROD-144,CUST-1029,5/5,Stopped working after a month.,2024-08-29,yes,48.0
+REV-5125,PROD-135,CUST-1017,1,Love this! Will buy again.,2023-11-23,No,31.0
+REV-5126,PROD-146,CUST-1111,1,Stopped working after a month.,2024-10-28,False,5.0
+REV-5127,PROD-146,CUST-1180,5,Best purchase I've made this year.,2023-11-19,Y,45.0
+REV-5128,PROD-103,CUST-1017,3,Best purchase I've made this year.,2024-01-08,N,32.0
+REV-5129,PROD-137,CUST-1013,4,Love this! Will buy again.,2024-04-14,yes,48.0
+REV-5130,PROD-130,CUST-1141,2/5,The color was different from the picture.,2023-11-29,Y,14.0
+REV-5131,PROD-108,CUST-1071,2/5,Perfect gift for my friend.,2023-08-30,no,47.0
+REV-5132,PROD-133,CUST-1147,1/5,Exceeded my expectations!,2024-06-03,Yes,47.0
+REV-5133,PROD-140,CUST-1012,1/5,"Fast shipping, item works perfectly.",2023-12-30,no,8.0
+REV-5134,PROD-145,CUST-1095,4,"Terrible quality, broke after a week.",2024-02-05,yes,26.0
+REV-5135,PROD-121,CUST-1088,1.0,"Two stars at best, poor quality.",2023-07-29,no,28.0
+REV-5136,PROD-129,CUST-1057,4.0,Good value for money.,2024-12-02,Yes,38.0
+REV-5137,PROD-105,CUST-1096,4,"Terrible quality, broke after a week.",2024-04-01,yes,33.0
+REV-5138,PROD-113,CUST-1189,one,Perfect gift for my friend.,2024-02-09,No,25.0
+REV-5139,PROD-110,CUST-1003,2,Stopped working after a month.,2024-10-11,1,23.0
+REV-5140,PROD-126,CUST-1039,4,Love this! Will buy again.,2024-07-08,1,3.0
+REV-5141,PROD-119,CUST-1110,5,Exceeded my expectations!,2024-08-25,True,12.0
+REV-5142,PROD-145,CUST-1116,2,"Average product, nothing special.",2023-11-19,1,7.0
+REV-5143,PROD-105,CUST-1167,3,Easy to use and very durable.,2024-05-17,True,6.0
+REV-5144,PROD-143,CUST-1152,5,"Two stars at best, poor quality.",2024-10-17,No,26.0
+REV-5145,PROD-109,CUST-1174,2,Would not recommend to anyone.,2025-01-05,no,15.0
+REV-5146,PROD-108,CUST-1093,3,Would not recommend to anyone.,2023-07-29,no,12.0
+REV-5147,PROD-102,CUST-1171,2/5,Best purchase I've made this year.,2024-06-09,Yes,46.0
+REV-5148,PROD-117,CUST-1127,3,Solid build quality.,2024-03-02,1,46.0
+REV-5149,PROD-117,CUST-1069,3,"Two stars at best, poor quality.",2024-09-26,Y,4.0
+REV-5150,PROD-127,CUST-1137,2,"Great product, exactly what I needed!",2023-06-23,N,39.0
+REV-5151,PROD-119,CUST-1047,5/5,"Two stars at best, poor quality.",2024-05-15,yes,23.0
+REV-5152,PROD-136,CUST-1003,4,Perfect gift for my friend.,2024-02-01,yes,49.0
+REV-5153,PROD-145,CUST-1013,5,Perfect gift for my friend.,2024-03-19,Y,15.0
+REV-5154,PROD-110,CUST-1115,4,Would not recommend to anyone.,2023-07-28,0,43.0
+REV-5155,PROD-101,CUST-1042,1,"Not as described, very disappointed.",2024-05-30,No,35.0
+REV-5156,PROD-128,CUST-1189,1,Waste of money.,2024-03-13,Y,16.0
+REV-5157,PROD-117,CUST-1049,4/5,"Average product, nothing special.",2024-10-22,Yes,26.0
+REV-5158,PROD-121,CUST-1174,2,Exceeded my expectations!,2024-07-14,no,7.0
+REV-5159,PROD-117,CUST-1039,one,"Arrived damaged, had to return.",2024-05-31,No,
+REV-5160,PROD-123,CUST-1038,3.0,"Average product, nothing special.",2023-06-26,yes,
+REV-5161,PROD-111,CUST-1058,3,"Not as described, very disappointed.",2024-04-04,no,33.0
+REV-5162,PROD-140,CUST-1050,1.0,Stopped working after a month.,2023-10-03,False,33.0
+REV-5163,PROD-149,CUST-1063,4,Stopped working after a month.,2024-10-09,N,42.0
+REV-5164,PROD-143,CUST-1058,2,Exceeded my expectations!,2024-08-27,Y,11.0
+REV-5165,PROD-100,CUST-1090,3,Would not recommend to anyone.,2024-01-14,1,32.0
+REV-5166,PROD-122,CUST-1141,one,"Terrible quality, broke after a week.",2023-07-21,Y,38.0
+REV-5167,PROD-131,CUST-1025,1,,2023-07-10,No,6.0
+REV-5168,PROD-122,CUST-1180,5,Customer service was unhelpful.,2023-12-05,1,48.0
+REV-5169,PROD-116,CUST-1033,5,Exceeded my expectations!,2024-02-24,yes,10.0
+REV-5170,PROD-145,CUST-1193,5/5,Perfect gift for my friend.,2023-09-17,yes,42.0
+REV-5171,PROD-147,CUST-1045,5,Stopped working after a month.,2023-12-06,1,
+REV-5172,PROD-111,CUST-1062,2.4,,2024-10-03,No,17.0
+REV-5173,PROD-125,CUST-1058,4.0,The color was different from the picture.,2024-04-18,No,20.0
+REV-5174,PROD-109,CUST-1044,one,"Terrible quality, broke after a week.",2024-06-29,Y,42.0
+REV-5175,PROD-125,CUST-1187,2,Customer service was unhelpful.,2024-04-17,Yes,16.0
+REV-5176,PROD-136,CUST-1184,1,Good value for money.,2024-08-12,N,43.0
+REV-5177,PROD-121,CUST-1147,three,"Five stars, absolutely amazing!",2023-09-02,no,28.0
+REV-5178,PROD-135,CUST-1043,1.1,"Average product, nothing special.",2024-02-15,Yes,
+REV-5179,PROD-141,CUST-1038,4/5,Exceeded my expectations!,2023-08-31,N,45.0
+REV-5180,PROD-127,CUST-1133,5,Good value for money.,2024-12-31,yes,30.0
+REV-5181,PROD-114,CUST-1172,1,Solid build quality.,2024-07-03,False,33.0
+REV-5182,PROD-134,CUST-1161,5,The color was different from the picture.,2023-12-30,no,5.0
+REV-5183,PROD-140,CUST-1163,4,Would not recommend to anyone.,2025-01-13,No,10.0
+REV-5184,PROD-107,CUST-1198,5/5,Best purchase I've made this year.,2023-06-25,True,36.0
+REV-5185,PROD-140,CUST-1000,4.0,"Arrived damaged, had to return.",2023-07-22,0,19.0
+REV-5186,PROD-134,CUST-1022,4,Exceeded my expectations!,2024-04-12,1,27.0
+REV-5187,PROD-144,CUST-1090,1.0,Would not recommend to anyone.,2024-02-06,0,37.0
+REV-5188,PROD-147,CUST-1020,4,"Five stars, absolutely amazing!",2024-08-25,False,44.0
+REV-5189,PROD-124,CUST-1151,two,"Great product, exactly what I needed!",2024-06-14,yes,7.0
+REV-5190,PROD-110,CUST-1080,5,Love this! Will buy again.,2023-08-20,N,36.0
+REV-5191,PROD-148,CUST-1076,3,Perfect gift for my friend.,2024-02-09,True,19.0
+REV-5192,PROD-145,CUST-1154,3,"Two stars at best, poor quality.",2025-01-04,no,16.0
+REV-5193,PROD-117,CUST-1004,5,"Arrived damaged, had to return.",2024-02-26,yes,3.0
+REV-5194,PROD-137,CUST-1147,3,"Arrived damaged, had to return.",2024-01-10,Y,17.0
+REV-5195,PROD-106,CUST-1033,2,,2024-08-30,yes,30.0
+REV-5196,PROD-148,CUST-1161,1,Waste of money.,2024-03-20,False,37.0
+REV-5197,PROD-108,CUST-1010,2/5,"Five stars, absolutely amazing!",2023-06-11,1,24.0
+REV-5198,PROD-104,CUST-1036,2.0,Stopped working after a month.,2023-06-29,No,7.0
+REV-5199,PROD-113,CUST-1048,4,Easy to use and very durable.,2024-07-06,0,35.0
+REV-5200,PROD-999,CUST-1141,1,Perfect gift for my friend.,2024-06-04,False,14.0
+REV-5201,PROD-104,CUST-1075,2.0,Exceeded my expectations!,2023-12-27,1,42.0
+REV-5202,PROD-147,CUST-1049,2/5,The color was different from the picture.,2024-02-10,yes,13.0
+REV-5203,PROD-141,CUST-1169,1/5,"Five stars, absolutely amazing!",2024-01-24,1,44.0
+REV-5204,PROD-143,CUST-1166,4.0,"Fast shipping, item works perfectly.",2024-12-17,N,24.0
+REV-5205,PROD-148,CUST-1112,5,Good value for money.,2024-10-11,0,2.0
+REV-5206,PROD-119,CUST-1137,two,Stopped working after a month.,2024-01-20,Yes,35.0
+REV-5207,PROD-139,CUST-1050,3,Love this! Will buy again.,2023-11-11,yes,14.0
+REV-5208,PROD-100,CUST-1102,2/5,"Not as described, very disappointed.",2024-05-04,no,0.0
+REV-5209,PROD-114,CUST-1171,1,Solid build quality.,2023-10-04,False,0.0
+REV-5210,PROD-128,CUST-1156,4/5,Easy to use and very durable.,2024-10-02,no,3.0
+REV-5211,PROD-111,CUST-1059,3.0,"Arrived damaged, had to return.",2023-11-25,True,10.0
+REV-5212,PROD-115,CUST-1138,1,Good value for money.,2023-10-09,N,49.0
+REV-5213,PROD-101,CUST-1013,1,"Terrible quality, broke after a week.",2024-03-26,0,46.0
+REV-5214,PROD-126,CUST-1164,3,Customer service was unhelpful.,2024-09-30,False,26.0
+REV-5215,PROD-106,CUST-1098,5,"Arrived damaged, had to return.",2023-07-22,no,28.0
+REV-5216,PROD-109,CUST-1081,4,"Five stars, absolutely amazing!",2023-11-07,False,48.0
+REV-5217,PROD-134,CUST-1124,3,Exceeded my expectations!,2024-02-09,0,4.0
+REV-5218,PROD-111,CUST-1012,1/5,Solid build quality.,2023-08-28,Y,
+REV-5219,PROD-144,CUST-1171,3,Good value for money.,2023-07-22,0,31.0
+REV-5220,PROD-118,CUST-1177,1,"Two stars at best, poor quality.",2024-02-13,False,48.0
+REV-5221,PROD-107,CUST-1036,4/5,Best purchase I've made this year.,2023-11-27,True,35.0
+REV-5222,PROD-129,CUST-1045,2,Easy to use and very durable.,2024-06-19,True,41.0
+REV-5223,PROD-124,CUST-1050,2.0,The color was different from the picture.,2024-12-04,True,1.0
+REV-5224,PROD-119,CUST-1069,5,"Average product, nothing special.",2023-06-13,Yes,39.0
+REV-5225,PROD-143,CUST-1048,4.0,Solid build quality.,2024-04-16,0,44.0
+REV-5226,PROD-111,CUST-1106,4,"Average product, nothing special.",2024-04-20,0,30.0
+REV-5227,PROD-120,CUST-1089,2,"Fast shipping, item works perfectly.",2024-07-13,N,41.0
+REV-5228,PROD-123,CUST-1196,5,"Terrible quality, broke after a week.",2024-04-26,yes,20.0
+REV-5229,PROD-148,CUST-1165,5,"Two stars at best, poor quality.",2023-11-05,True,11.0
+REV-5230,PROD-102,CUST-1086,4,Exceeded my expectations!,2024-12-16,No,34.0
+REV-5231,PROD-148,CUST-1136,1/5,Would not recommend to anyone.,2025-01-08,yes,
+REV-5232,PROD-141,CUST-1095,1,Love this! Will buy again.,2023-08-18,No,34.0
+REV-5233,PROD-109,CUST-1026,4,"Not as described, very disappointed.",2023-06-09,Y,35.0
+REV-5234,PROD-134,CUST-1010,1,"Average product, nothing special.",2023-06-01,N,31.0
+REV-5235,PROD-128,CUST-1163,5,Best purchase I've made this year.,2024-07-02,True,7.0
+REV-5236,PROD-138,CUST-1183,4,"Fast shipping, item works perfectly.",2023-10-23,yes,
+REV-5237,PROD-111,CUST-1041,one,"Arrived damaged, had to return.",2024-03-18,no,7.0
+REV-5238,PROD-118,CUST-1023,4,"Two stars at best, poor quality.",2023-09-23,0,48.0
+REV-5239,PROD-126,CUST-1166,5,Exceeded my expectations!,2023-09-07,No,1.0
+REV-5240,PROD-103,CUST-1180,2.0,,2023-11-20,Yes,12.0
+REV-5241,PROD-147,CUST-1082,2,Easy to use and very durable.,2023-06-04,yes,33.0
+REV-5242,PROD-115,CUST-1157,5,"Five stars, absolutely amazing!",2024-08-01,N,
+REV-5243,PROD-128,CUST-1058,4,"Arrived damaged, had to return.",2024-02-05,no,32.0
+REV-5244,PROD-139,CUST-1191,4,Easy to use and very durable.,2024-07-22,No,34.0
+REV-5245,PROD-148,CUST-1000,4,Exceeded my expectations!,2023-09-20,yes,50.0
+REV-5246,PROD-110,CUST-1187,2,Stopped working after a month.,2024-11-02,yes,38.0
+REV-5247,PROD-146,CUST-1103,1,Customer service was unhelpful.,2023-06-21,0,41.0
+REV-5248,PROD-102,CUST-1133,4,Perfect gift for my friend.,2024-12-03,no,39.0
+REV-5249,PROD-108,CUST-1090,4,Waste of money.,2023-09-22,N,41.0
+REV-5249,PROD-115,CUST-1183,5,"Fast shipping, item works perfectly.",2023-06-18,1,44.0
+REV-5251,PROD-125,CUST-1035,5,Exceeded my expectations!,2023-09-05,True,37.0
+REV-5252,PROD-136,CUST-1195,2,The color was different from the picture.,2023-06-10,yes,38.0
+REV-5253,PROD-101,CUST-1016,4,"Five stars, absolutely amazing!",2024-04-07,N,1.0
+REV-5254,PROD-135,CUST-1143,1,"Two stars at best, poor quality.",2024-02-17,N,17.0
+REV-5255,PROD-104,CUST-1118,5,Solid build quality.,2024-07-25,Y,21.0
+REV-5256,PROD-113,CUST-1198,4,"Great product, exactly what I needed!",2024-03-26,True,0.0
+REV-5257,PROD-138,CUST-1008,5.3,"Fast shipping, item works perfectly.",2023-09-30,0,
+REV-5258,PROD-125,CUST-1045,3.0,Perfect gift for my friend.,2024-12-09,False,49.0
+REV-5259,PROD-114,CUST-1084,1,"Arrived damaged, had to return.",2023-07-13,Y,38.0
+REV-5260,PROD-147,CUST-1060,4,,2024-07-30,0,0.0
+REV-5261,PROD-103,CUST-1026,1,"Two stars at best, poor quality.",2024-07-17,False,1.0
+REV-5262,PROD-122,CUST-1138,4,The color was different from the picture.,2024-08-22,1,3.0
+REV-5263,PROD-132,CUST-1106,4,"Terrible quality, broke after a week.",2023-11-13,Yes,48.0
+REV-5264,PROD-113,CUST-1075,4.0,Perfect gift for my friend.,2024-03-04,yes,2.0
+REV-5265,PROD-125,CUST-1095,4,"Terrible quality, broke after a week.",2024-07-15,1,49.0
+REV-5266,PROD-108,CUST-1080,1,"Average product, nothing special.",2023-10-19,yes,11.0
+REV-5267,PROD-107,CUST-1055,5/5,The color was different from the picture.,2024-01-28,0,16.0
+REV-5268,PROD-131,CUST-1095,3,"Two stars at best, poor quality.",2024-04-29,1,6.0
+REV-5269,PROD-114,CUST-1035,five,Stopped working after a month.,2023-08-23,no,44.0
+REV-5270,PROD-138,CUST-1100,1/5,"Average product, nothing special.",2024-02-11,No,4.0
+REV-5271,PROD-145,CUST-1040,4,Perfect gift for my friend.,2024-10-19,Y,46.0
+REV-5272,PROD-115,CUST-1046,5,The color was different from the picture.,2023-11-23,yes,22.0
+REV-5273,PROD-108,CUST-1128,3/5,Stopped working after a month.,2023-09-27,N,
+REV-5274,PROD-104,CUST-1092,one,Good value for money.,2023-07-19,True,19.0
+REV-5275,PROD-117,CUST-1112,4,The color was different from the picture.,2024-03-31,No,29.0
+REV-5276,PROD-107,CUST-1074,3,"Two stars at best, poor quality.",2024-02-22,no,
+REV-5277,PROD-114,CUST-1031,four,Waste of money.,2023-12-17,No,4.0
+REV-5278,PROD-144,CUST-1009,2,Love this! Will buy again.,2024-08-11,Y,35.0
+REV-5279,PROD-104,CUST-1047,4.6,Good value for money.,2024-08-19,False,28.0
+REV-5280,PROD-144,CUST-1123,3,Love this! Will buy again.,2024-01-18,Yes,36.0
+REV-5281,PROD-106,CUST-1022,3,Solid build quality.,2024-10-21,1,37.0
+REV-5282,PROD-125,CUST-1150,5,Perfect gift for my friend.,2023-10-18,1,27.0
+REV-5283,PROD-116,CUST-1149,3/5,"Terrible quality, broke after a week.",2025-01-09,No,
+REV-5284,PROD-138,CUST-1175,5.0,"Average product, nothing special.",2024-01-26,No,34.0
+REV-5285,PROD-138,CUST-1070,4,Love this! Will buy again.,2024-07-04,Y,48.0
+REV-5286,PROD-142,CUST-1198,5,Easy to use and very durable.,2024-06-14,N,33.0
+REV-5287,PROD-108,CUST-1018,5.0,"Five stars, absolutely amazing!",2023-10-25,0,38.0
+REV-5288,PROD-142,CUST-1020,1,Easy to use and very durable.,2024-09-05,N,16.0
+REV-5289,PROD-121,CUST-1133,1,Love this! Will buy again.,2023-11-11,No,
+REV-5290,PROD-146,CUST-1029,2,"Five stars, absolutely amazing!",2024-12-01,no,31.0
+REV-5291,PROD-134,CUST-1188,1,"Five stars, absolutely amazing!",2023-06-24,yes,28.0
+REV-5292,PROD-129,CUST-1037,5/5,Waste of money.,2024-04-19,1,14.0
+REV-5293,PROD-123,CUST-1193,1,"Great product, exactly what I needed!",2023-06-22,False,43.0
+REV-5294,PROD-125,CUST-1002,1,"Arrived damaged, had to return.",2023-08-21,yes,30.0
+REV-5295,PROD-119,CUST-1146,2,,2023-07-14,Y,34.0
+REV-5296,PROD-106,CUST-1015,five,The color was different from the picture.,2024-05-01,no,13.0
+REV-5297,PROD-125,CUST-1097,1,"Fast shipping, item works perfectly.",2023-12-28,0,
+REV-5298,PROD-144,CUST-1158,3,,2024-02-03,Yes,34.0
+REV-5299,PROD-120,CUST-1115,4/5,Good value for money.,2024-03-25,False,24.0
+REV-5300,PROD-999,CUST-1097,5,Best purchase I've made this year.,2023-09-12,N,
+REV-5301,PROD-132,CUST-1139,2.0,Best purchase I've made this year.,2023-11-10,1,
+REV-5302,PROD-115,CUST-1065,three,,2024-02-17,1,
+REV-5303,PROD-106,CUST-1085,5,The color was different from the picture.,2023-12-27,1,2.0
+REV-5304,PROD-123,CUST-1139,1/5,,2024-12-25,0,0.0
+REV-5305,PROD-116,CUST-1067,2,Perfect gift for my friend.,2023-09-13,0,48.0
+REV-5306,PROD-137,CUST-1011,2,Best purchase I've made this year.,2025-01-09,True,42.0
+REV-5307,PROD-138,CUST-1116,1,Easy to use and very durable.,2024-11-03,False,45.0
+REV-5308,PROD-115,CUST-1068,3,"Great product, exactly what I needed!",2024-09-07,1,35.0
+REV-5309,PROD-107,CUST-1051,1,Exceeded my expectations!,2023-07-06,N,33.0
+REV-5310,PROD-104,CUST-1056,5,Exceeded my expectations!,2024-11-06,1,30.0
+REV-5311,PROD-128,CUST-1154,one,,2023-06-09,No,22.0
+REV-5312,PROD-112,CUST-1101,5,Perfect gift for my friend.,2023-10-09,yes,16.0
+REV-5313,PROD-104,CUST-1185,2.0,Solid build quality.,2023-07-06,0,17.0
+REV-5314,PROD-148,CUST-1181,3/5,"Five stars, absolutely amazing!",2023-07-28,True,
+REV-5315,PROD-113,CUST-1015,2,"Two stars at best, poor quality.",2023-08-17,True,
+REV-5316,PROD-140,CUST-1139,2/5,"Great product, exactly what I needed!",2024-03-10,N,35.0
+REV-5317,PROD-130,CUST-1046,2,Good value for money.,2023-12-27,0,50.0
+REV-5318,PROD-109,CUST-1044,2,"Not as described, very disappointed.",2024-01-06,Y,3.0
+REV-5319,PROD-102,CUST-1055,2.0,,2024-06-25,Yes,25.0
+REV-5320,PROD-128,CUST-1199,2/5,,2023-11-03,N,50.0
+REV-5321,PROD-115,CUST-1104,4,"Five stars, absolutely amazing!",2023-12-19,Yes,
+REV-5322,PROD-129,CUST-1126,four,Easy to use and very durable.,2023-09-07,N,1.0
+REV-5323,PROD-129,CUST-1167,two,"Average product, nothing special.",2023-07-06,No,34.0
+REV-5324,PROD-124,CUST-1120,5/5,Best purchase I've made this year.,2024-11-03,0,7.0
+REV-5325,PROD-101,CUST-1126,3,"Average product, nothing special.",2023-09-23,Y,4.0
+REV-5326,PROD-130,CUST-1057,1,The color was different from the picture.,2023-10-27,yes,9.0
+REV-5327,PROD-105,CUST-1046,4/5,"Five stars, absolutely amazing!",2024-05-16,True,9.0
+REV-5328,PROD-146,CUST-1046,1,"Great product, exactly what I needed!",2024-09-28,no,26.0
+REV-5329,PROD-141,CUST-1154,3,"Arrived damaged, had to return.",2024-09-19,Yes,43.0
+REV-5330,PROD-108,CUST-1097,3,,2023-09-23,No,42.0
+REV-5331,PROD-107,CUST-1138,3,The color was different from the picture.,2024-08-14,N,26.0
+REV-5332,PROD-116,CUST-1032,4,Best purchase I've made this year.,2024-08-05,Yes,32.0
+REV-5333,PROD-133,CUST-1022,3,"Not as described, very disappointed.",2024-12-22,N,
+REV-5334,PROD-118,CUST-1196,2.5,Exceeded my expectations!,2024-11-23,1,46.0
+REV-5335,PROD-140,CUST-1130,2,Solid build quality.,2024-03-02,Yes,7.0
+REV-5336,PROD-114,CUST-1043,5,,2023-06-10,yes,46.0
+REV-5337,PROD-131,CUST-1000,2,,2024-01-10,Yes,24.0
+REV-5338,PROD-115,CUST-1000,3,"Five stars, absolutely amazing!",2023-06-05,N,7.0
+REV-5339,PROD-116,CUST-1023,one,"Fast shipping, item works perfectly.",2025-01-14,no,31.0
+REV-5340,PROD-112,CUST-1189,4,"Terrible quality, broke after a week.",2024-09-13,1,
+REV-5341,PROD-146,CUST-1108,3,Perfect gift for my friend.,2024-12-12,1,3.0
+REV-5342,PROD-101,CUST-1111,5,"Not as described, very disappointed.",2024-02-11,no,5.0
+REV-5343,PROD-106,CUST-1177,5,Love this! Will buy again.,2024-06-13,yes,19.0
+REV-5344,PROD-109,CUST-1195,2.3,Waste of money.,2024-04-27,1,
+REV-5345,PROD-120,CUST-1103,4,"Fast shipping, item works perfectly.",2024-03-06,Yes,
+REV-5346,PROD-135,CUST-1180,2.0,Good value for money.,2023-10-21,Y,8.0
+REV-5347,PROD-141,CUST-1100,2,Love this! Will buy again.,2023-10-31,False,4.0
+REV-5348,PROD-131,CUST-1163,3,Waste of money.,2024-06-02,True,14.0
+REV-5349,PROD-122,CUST-1022,4/5,"Not as described, very disappointed.",2024-03-28,Y,35.0
+REV-5350,PROD-144,CUST-1175,3/5,Good value for money.,2023-09-27,yes,20.0
+REV-5351,PROD-122,CUST-1029,5/5,"Terrible quality, broke after a week.",2024-07-12,0,14.0
+REV-5352,PROD-103,CUST-1032,three,Love this! Will buy again.,2023-08-27,yes,1.0
+REV-5353,PROD-105,CUST-1017,2,"Fast shipping, item works perfectly.",2024-08-11,Yes,16.0
+REV-5354,PROD-134,CUST-1111,3/5,Would not recommend to anyone.,2024-08-13,True,46.0
+REV-5355,PROD-102,CUST-1162,3,"Great product, exactly what I needed!",2024-01-11,No,21.0
+REV-5356,PROD-115,CUST-1125,1,Perfect gift for my friend.,2024-04-12,no,26.0
+REV-5357,PROD-105,CUST-1191,4,Solid build quality.,2023-09-12,yes,0.0
+REV-5358,PROD-132,CUST-1039,4,Perfect gift for my friend.,2024-07-14,No,39.0
+REV-5359,PROD-128,CUST-1121,4,Good value for money.,2024-03-27,yes,40.0
+REV-5360,PROD-113,CUST-1027,3/5,The color was different from the picture.,2024-07-27,Y,19.0
+REV-5361,PROD-109,CUST-1185,2,Best purchase I've made this year.,2024-04-10,Y,7.0
+REV-5362,PROD-109,CUST-1041,1,"Five stars, absolutely amazing!",2024-05-30,yes,
+REV-5363,PROD-125,CUST-1025,3.0,"Two stars at best, poor quality.",2023-10-05,0,34.0
+REV-5364,PROD-135,CUST-1059,1.0,Easy to use and very durable.,2024-08-13,N,32.0
+REV-5365,PROD-132,CUST-1005,2,Best purchase I've made this year.,2024-12-01,True,1.0
+REV-5366,PROD-122,CUST-1079,1,Perfect gift for my friend.,2024-06-14,No,11.0
+REV-5367,PROD-115,CUST-1013,1/5,Love this! Will buy again.,2024-07-16,1,
+REV-5368,PROD-115,CUST-1098,4/5,,2024-10-30,Yes,3.0
+REV-5369,PROD-144,CUST-1140,2/5,"Two stars at best, poor quality.",2024-08-31,N,3.0
+REV-5370,PROD-105,CUST-1053,one,Customer service was unhelpful.,2023-06-14,No,48.0
+REV-5371,PROD-144,CUST-1011,4,"Not as described, very disappointed.",2024-07-29,1,9.0
+REV-5372,PROD-148,CUST-1066,3,The color was different from the picture.,2024-11-01,0,21.0
+REV-5373,PROD-123,CUST-1087,one,Love this! Will buy again.,2024-08-22,yes,1.0
+REV-5374,PROD-130,CUST-1120,2,Solid build quality.,2023-06-04,N,45.0
+REV-5375,PROD-114,CUST-1027,4/5,"Arrived damaged, had to return.",2024-07-30,Y,39.0
+REV-5376,PROD-130,CUST-1173,2/5,"Five stars, absolutely amazing!",2023-12-25,1,31.0
+REV-5377,PROD-149,CUST-1027,4.8,"Great product, exactly what I needed!",2024-12-25,yes,35.0
+REV-5378,PROD-100,CUST-1043,5,The color was different from the picture.,2023-06-16,no,8.0
+REV-5379,PROD-113,CUST-1098,4,Best purchase I've made this year.,2023-07-09,Y,29.0
+REV-5380,PROD-116,CUST-1174,four,Good value for money.,2024-08-27,1,7.0
+REV-5381,PROD-115,CUST-1022,5,"Not as described, very disappointed.",2023-10-24,1,9.0
+REV-5382,PROD-124,CUST-1055,1/5,"Terrible quality, broke after a week.",2023-06-10,Y,50.0
+REV-5383,PROD-110,CUST-1147,3,"Arrived damaged, had to return.",2024-01-14,True,14.0
+REV-5384,PROD-101,CUST-1003,1,Would not recommend to anyone.,2023-08-16,Yes,23.0
+REV-5385,PROD-104,CUST-1178,4,Would not recommend to anyone.,2024-07-02,no,39.0
+REV-5386,PROD-121,CUST-1083,two,,2023-06-04,No,17.0
+REV-5387,PROD-131,CUST-1108,4,"Not as described, very disappointed.",2025-01-20,False,35.0
+REV-5388,PROD-121,CUST-1114,3,Easy to use and very durable.,2023-08-18,No,37.0
+REV-5389,PROD-123,CUST-1066,five,"Terrible quality, broke after a week.",2024-06-05,N,14.0
+REV-5390,PROD-146,CUST-1074,4/5,Stopped working after a month.,2024-03-29,True,29.0
+REV-5391,PROD-129,CUST-1113,2/5,Solid build quality.,2023-08-06,no,
+REV-5392,PROD-132,CUST-1067,4/5,Customer service was unhelpful.,2024-06-28,Y,48.0
+REV-5393,PROD-114,CUST-1124,four,Would not recommend to anyone.,2023-09-09,Y,
+REV-5394,PROD-111,CUST-1128,four,Solid build quality.,2024-04-04,yes,10.0
+REV-5395,PROD-136,CUST-1115,2,Love this! Will buy again.,2023-10-30,True,28.0
+REV-5396,PROD-126,CUST-1174,four,Customer service was unhelpful.,2024-06-21,No,45.0
+REV-5397,PROD-113,CUST-1091,3,Exceeded my expectations!,2023-10-20,Y,32.0
+REV-5398,PROD-130,CUST-1067,5/5,Love this! Will buy again.,2023-07-01,1,14.0
+REV-5399,PROD-111,CUST-1006,1,"Two stars at best, poor quality.",2024-05-21,yes,36.0
+REV-5400,PROD-888,CUST-1198,1,,2024-02-19,no,47.0
+REV-5401,PROD-126,CUST-1128,4/5,Solid build quality.,2024-09-28,0,22.0
+REV-5402,PROD-116,CUST-1061,two,Love this! Will buy again.,2023-06-29,True,11.0
+REV-5403,PROD-130,CUST-1015,2,"Average product, nothing special.",2023-12-02,yes,6.0
+REV-5404,PROD-148,CUST-1125,1,"Average product, nothing special.",2023-10-02,Yes,10.0
+REV-5405,PROD-139,CUST-1059,5,,2024-12-18,yes,27.0
+REV-5406,PROD-137,CUST-1145,1.4,"Great product, exactly what I needed!",2024-07-28,No,17.0
+REV-5407,PROD-111,CUST-1006,4.0,Solid build quality.,2024-12-11,0,48.0
+REV-5408,PROD-101,CUST-1114,two,"Terrible quality, broke after a week.",2023-12-16,False,2.0
+REV-5409,PROD-118,CUST-1096,5,"Not as described, very disappointed.",2024-03-13,0,17.0
+REV-5410,PROD-128,CUST-1144,4.0,,2024-01-14,1,20.0
+REV-5411,PROD-116,CUST-1083,1,"Two stars at best, poor quality.",2024-12-15,no,14.0
+REV-5412,PROD-108,CUST-1040,4,"Not as described, very disappointed.",2023-08-29,1,41.0
+REV-5413,PROD-103,CUST-1183,3,Best purchase I've made this year.,2024-08-14,False,29.0
+REV-5414,PROD-110,CUST-1095,5,,2025-01-21,Yes,34.0
+REV-5415,PROD-127,CUST-1005,3,"Arrived damaged, had to return.",2024-07-27,Yes,6.0
+REV-5416,PROD-136,CUST-1060,2,Perfect gift for my friend.,2024-04-02,True,2.0
+REV-5417,PROD-137,CUST-1001,2,Would not recommend to anyone.,2023-11-25,False,
+REV-5418,PROD-109,CUST-1158,3,Would not recommend to anyone.,2023-09-25,False,50.0
+REV-5419,PROD-145,CUST-1072,1,Exceeded my expectations!,2024-12-25,N,49.0
+REV-5420,PROD-115,CUST-1033,2,,2024-08-10,Y,
+REV-5421,PROD-136,CUST-1192,5,"Average product, nothing special.",2024-03-02,N,
+REV-5422,PROD-149,CUST-1014,3,Would not recommend to anyone.,2023-10-16,0,4.0
+REV-5423,PROD-130,CUST-1046,4,Perfect gift for my friend.,2024-06-28,No,28.0
+REV-5424,PROD-121,CUST-1046,five,Good value for money.,2023-10-14,no,
+REV-5425,PROD-123,CUST-1081,2,Love this! Will buy again.,2024-09-27,1,6.0
+REV-5426,PROD-109,CUST-1001,1,"Average product, nothing special.",2023-06-28,Y,20.0
+REV-5427,PROD-108,CUST-1180,3/5,Stopped working after a month.,2023-11-18,no,22.0
+REV-5428,PROD-100,CUST-1184,3/5,"Not as described, very disappointed.",2024-01-01,N,19.0
+REV-5429,PROD-115,CUST-1066,1,"Fast shipping, item works perfectly.",2023-10-22,False,16.0
+REV-5430,PROD-108,CUST-1179,2,"Not as described, very disappointed.",2024-04-25,N,0.0
+REV-5431,PROD-119,CUST-1162,five,"Five stars, absolutely amazing!",2024-10-17,no,15.0
+REV-5432,PROD-148,CUST-1042,2,"Arrived damaged, had to return.",2023-07-29,True,17.0
+REV-5433,PROD-103,CUST-1049,5,"Arrived damaged, had to return.",2024-11-25,yes,20.0
+REV-5434,PROD-144,CUST-1068,4,"Fast shipping, item works perfectly.",2024-11-02,N,23.0
+REV-5435,PROD-119,CUST-1100,2,"Average product, nothing special.",2025-01-20,yes,22.0
+REV-5436,PROD-100,CUST-1043,1,The color was different from the picture.,2024-07-20,0,26.0
+REV-5437,PROD-112,CUST-1041,5,Perfect gift for my friend.,2023-11-21,No,36.0
+REV-5438,PROD-111,CUST-1155,5/5,Waste of money.,2023-06-14,1,44.0
+REV-5439,PROD-128,CUST-1000,1/5,Easy to use and very durable.,2024-07-13,Yes,23.0
+REV-5440,PROD-127,CUST-1012,4.0,Good value for money.,2023-08-16,N,23.0
+REV-5441,PROD-148,CUST-1022,2,Would not recommend to anyone.,2023-09-04,1,44.0
+REV-5442,PROD-102,CUST-1082,4,Best purchase I've made this year.,2023-07-09,No,47.0
+REV-5443,PROD-126,CUST-1182,1,"Great product, exactly what I needed!",2024-11-20,Yes,14.0
+REV-5444,PROD-129,CUST-1057,2,Exceeded my expectations!,2023-10-29,no,7.0
+REV-5445,PROD-100,CUST-1183,5,Stopped working after a month.,2023-12-22,True,18.0
+REV-5446,PROD-107,CUST-1122,2,"Terrible quality, broke after a week.",2024-06-05,1,13.0
+REV-5447,PROD-116,CUST-1109,5.0,Customer service was unhelpful.,2024-03-11,False,6.0
+REV-5448,PROD-132,CUST-1048,5,"Average product, nothing special.",2024-12-30,Yes,18.0
+REV-5449,PROD-135,CUST-1056,2,Waste of money.,2023-11-20,False,32.0
+REV-5450,PROD-124,CUST-1197,5,Would not recommend to anyone.,2024-03-27,1,8.0
+REV-5451,PROD-126,CUST-1187,5,Good value for money.,2024-08-18,Yes,0.0
+REV-5452,PROD-138,CUST-1044,3,Perfect gift for my friend.,2024-03-01,no,37.0
+REV-5453,PROD-138,CUST-1122,one,Perfect gift for my friend.,2024-01-12,1,
+REV-5454,PROD-131,CUST-1067,4,Solid build quality.,2024-11-17,Yes,24.0
+REV-5455,PROD-105,CUST-1065,5,Solid build quality.,2024-07-30,yes,24.0
+REV-5456,PROD-148,CUST-1168,2,Good value for money.,2024-06-11,Y,33.0
+REV-5457,PROD-147,CUST-1147,5,"Great product, exactly what I needed!",2023-11-18,Y,2.0
+REV-5458,PROD-144,CUST-1093,4,Waste of money.,2024-01-28,Yes,2.0
+REV-5459,PROD-114,CUST-1101,2,Solid build quality.,2023-06-28,no,
+REV-5460,PROD-125,CUST-1188,4,Waste of money.,2023-12-05,0,41.0
+REV-5461,PROD-117,CUST-1084,1,Easy to use and very durable.,2024-08-15,N,2.0
+REV-5462,PROD-124,CUST-1178,4,"Two stars at best, poor quality.",2023-11-21,Y,25.0
+REV-5463,PROD-101,CUST-1146,3,"Not as described, very disappointed.",2024-04-05,0,
+REV-5464,PROD-141,CUST-1174,5.0,"Great product, exactly what I needed!",2024-07-16,1,11.0
+REV-5465,PROD-103,CUST-1121,1,"Five stars, absolutely amazing!",2023-06-16,N,32.0
+REV-5466,PROD-139,CUST-1143,1,Easy to use and very durable.,2023-10-01,no,14.0
+REV-5467,PROD-129,CUST-1078,1.0,"Average product, nothing special.",2024-08-07,1,10.0
+REV-5468,PROD-101,CUST-1172,2,Easy to use and very durable.,2023-08-29,True,40.0
+REV-5469,PROD-138,CUST-1198,1/5,Waste of money.,2024-06-02,0,
+REV-5470,PROD-124,CUST-1094,5,"Two stars at best, poor quality.",2023-06-03,Y,17.0
+REV-5471,PROD-114,CUST-1178,5,Good value for money.,2023-07-26,0,7.0
+REV-5472,PROD-126,CUST-1169,4,"Not as described, very disappointed.",2024-03-04,False,33.0
+REV-5473,PROD-137,CUST-1197,1/5,"Fast shipping, item works perfectly.",2024-02-14,Y,
+REV-5474,PROD-100,CUST-1105,2,"Terrible quality, broke after a week.",2023-11-07,0,13.0
+REV-5475,PROD-101,CUST-1116,five,"Fast shipping, item works perfectly.",2023-08-07,Y,26.0
+REV-5476,PROD-135,CUST-1192,2,"Great product, exactly what I needed!",2024-04-30,0,32.0
+REV-5477,PROD-142,CUST-1022,5,,2024-03-09,Y,
+REV-5478,PROD-137,CUST-1103,1,"Great product, exactly what I needed!",2024-09-26,Y,
+REV-5479,PROD-108,CUST-1107,1.0,Perfect gift for my friend.,2023-11-27,True,20.0
+REV-5480,PROD-138,CUST-1001,4,"Great product, exactly what I needed!",2024-10-09,True,42.0
+REV-5481,PROD-109,CUST-1023,3,"Fast shipping, item works perfectly.",2025-01-20,no,15.0
+REV-5482,PROD-100,CUST-1063,2,Solid build quality.,2023-07-31,Yes,48.0
+REV-5483,PROD-118,CUST-1090,2,Waste of money.,2023-07-14,True,5.0
+REV-5484,PROD-144,CUST-1062,5,Perfect gift for my friend.,2023-06-17,Y,7.0
+REV-5485,PROD-122,CUST-1105,5,Exceeded my expectations!,2024-07-14,yes,2.0
+REV-5486,PROD-124,CUST-1149,4,,2024-03-17,False,36.0
+REV-5487,PROD-131,CUST-1065,2/5,Love this! Will buy again.,2023-07-22,1,26.0
+REV-5488,PROD-136,CUST-1106,5/5,Solid build quality.,2024-06-28,N,11.0
+REV-5489,PROD-112,CUST-1150,3,"Two stars at best, poor quality.",2023-11-06,Y,20.0
+REV-5490,PROD-148,CUST-1115,5,Stopped working after a month.,2024-10-20,1,
+REV-5491,PROD-107,CUST-1155,2,"Not as described, very disappointed.",2024-02-13,False,33.0
+REV-5492,PROD-147,CUST-1007,2,,2023-06-11,No,3.0
+REV-5493,PROD-141,CUST-1078,4,Would not recommend to anyone.,2023-08-08,Yes,46.0
+REV-5494,PROD-136,CUST-1082,1,"Arrived damaged, had to return.",2024-10-20,0,37.0
+REV-5495,PROD-139,CUST-1075,5,Easy to use and very durable.,2023-10-17,N,41.0
+REV-5496,PROD-109,CUST-1109,5.1,"Not as described, very disappointed.",2024-08-10,N,35.0
+REV-5497,PROD-139,CUST-1198,4/5,"Terrible quality, broke after a week.",2025-01-03,False,8.0
+REV-5498,PROD-100,CUST-1025,3.5,Waste of money.,2024-07-23,N,30.0
+REV-5499,PROD-109,CUST-1078,three,"Not as described, very disappointed.",2024-02-09,yes,4.0

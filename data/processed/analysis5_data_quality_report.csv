@@ -1,0 +1,37 @@
+table,issue_type,rows_affected,action_taken
+orders,Exact duplicate rows,5,Dropped — kept first occurrence
+orders,Duplicate order_ids,5,Dropped — kept first occurrence
+orders,Mixed date formats,1010,Standardized to YYYY-MM-DD
+orders,Currency symbols in unit_price,1010,Stripped — converted to float
+orders,Inconsistent status casing,1010,Normalized to lowercase canonical values
+orders,Inconsistent payment casing,1010,Normalized to lowercase canonical values
+orders,Null customer_id,6,Dropped — FK integrity required
+orders,Null product_id,3,Dropped — FK integrity required
+orders,Null shipping_address_city,49,"Kept as NaN — analytics only, not critical"
+orders,Null discount_pct,393,Filled with 0.0 — null implies no discount
+orders,Negative or zero quantity,3,Dropped — nonsensical order
+orders,Orphaned customer_id (CUST-9xxx),15,Dropped — no matching customer record
+orders,Orphaned product_id,70,Dropped — no matching product record
+customers,Exact duplicate rows,3,Dropped — kept first occurrence
+customers,Duplicate customer_ids,3,Dropped — kept first occurrence
+customers,Mixed signup_date formats,200,Standardized to YYYY-MM-DD
+customers,is_active mixed types,203,Normalized to boolean (True/False)
+customers,Null email,4,Kept — added has_email flag column
+customers,Null loyalty_tier,36,Filled with 'none'
+customers,Null postal_code,3,Kept as NaN — not critical
+customers,Inconsistent name casing,203,Normalized to Title Case
+products,Exact duplicate rows,1,Dropped
+products,Duplicate product_ids,1,Dropped — kept first occurrence
+products,Duplicate SKUs,3,Dropped — kept first occurrence
+products,HTML tags in product_name,3,Stripped using BeautifulSoup
+products,Null category,3,Filled with 'uncategorized'
+products,Zero or negative unit_price,2,Dropped — invalid product price
+products,Null weight_kg,2,Kept as NaN — optional field
+products,Negative stock_quantity,1,Clamped to 0 at DB load stage
+reviews,Duplicate review_ids,3,Dropped — kept first occurrence
+reviews,Ratings in 33 different formats,500,Normalized to float 1.0–5.0
+reviews,Out-of-range ratings (e.g. 5.3),12,Capped at 5.0 — likely rounding artefacts
+reviews,verified_purchase in 10 formats,500,Normalized to boolean (True/False)
+reviews,Null review_text,39,Kept — added has_review_text flag column
+reviews,Null helpful_votes,58,Filled with 0
+reviews,Orphaned product_id,42,Dropped — no matching product record

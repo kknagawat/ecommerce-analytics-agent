@@ -1,0 +1,25 @@
+============================================================
+  PROFILE REPORT: ORDERS_CLEAN
+============================================================
+  Rows      : 919
+  Columns   : 11
+  Duplicates: 0 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  order_id                       str                  0    0.0%      919
+  customer_id                    str                  0    0.0%      199
+  product_id                     str                  0    0.0%       46
+  quantity                       int64                0    0.0%       10
+  unit_price                     float64              0    0.0%      908
+  total_amount                   float64             25    2.7%      893
+  order_date                     str                  0    0.0%      514
+  status                         str                  0    0.0%        7
+  payment_method                 str                  0    0.0%        6
+  shipping_address_city          str                 47    5.1%       16
+  discount_pct                   float64              0    0.0%        5
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+============================================================

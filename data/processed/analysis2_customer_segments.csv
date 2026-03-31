@@ -1,0 +1,200 @@
+customer_id,total_orders,total_spent,first_order_date,last_order_date,avg_order_value,days_since_last_order,segment,first_name,last_name,city,loyalty_tier,is_active
+CUST-1000,6,3754.64,2023-02-15,2024-09-17,625.77,105,At Risk,Layla,Brown,Doha,platinum,True
+CUST-1001,4,1628.1200000000001,2024-01-13,2024-08-31,407.03,122,At Risk,Karim,Jones,Cairo,silver,False
+CUST-1002,9,4187.27,2023-01-13,2024-11-22,465.25,39,Active,Sara,Wilson,Dubai,bronze,True
+CUST-1003,3,613.42,2023-10-04,2024-10-24,204.47,68,Active,Ziad,Mansour,Sydney,none,True
+CUST-1004,6,6771.419999999999,2023-03-08,2024-11-16,1128.57,45,Active,Dina,Haddad,Muscat,silver,False
+CUST-1005,5,4332.7300000000005,2023-01-07,2024-10-21,866.55,71,Active,Emma,Smith,Jeddah,bronze,True
+CUST-1006,2,2277.69,2024-01-04,2024-10-05,1138.84,87,Active,Rami,Khalil,Abu Dhabi,gold,True
+CUST-1007,5,2495.83,2023-05-23,2024-04-21,499.17,254,Churned,Mona,Nasser,Doha,bronze,False
+CUST-1008,3,2049.8199999999997,2023-01-17,2024-05-18,683.27,227,Churned,Robert,Abbas,Cairo,gold,True
+CUST-1009,3,1972.26,2023-01-06,2024-12-02,657.42,29,Active,Hassan,Ibrahim,Kuwait City,gold,False
+CUST-1010,1,508.4,2023-01-03,2023-01-03,508.4,728,Churned,Sara,Al-Rashid,Amman,bronze,True
+CUST-1011,3,1729.88,2023-11-06,2024-06-21,576.63,193,Churned,Fatima,Mansour,Berlin,platinum,True
+CUST-1012,3,2558.7799999999997,2023-11-23,2024-11-22,852.93,39,Active,Youssef,Haddad,Cairo,gold,True
+CUST-1013,10,5983.96,2023-02-13,2024-12-31,598.4,0,Active,David,Wilson,Berlin,bronze,False
+CUST-1014,1,764.52,2023-05-07,2023-05-07,764.52,604,Churned,Layla,Smith,Toronto,silver,False
+CUST-1015,3,1696.31,2023-05-16,2024-12-31,565.44,0,Active,Hassan,Jones,Amman,bronze,False
+CUST-1016,8,6903.16,2023-03-11,2024-08-20,862.9,133,At Risk,David,Ibrahim,Amman,gold,True
+CUST-1017,5,2685.16,2023-04-17,2024-11-11,537.03,50,Active,Layla,Ibrahim,Dubai,platinum,True
+CUST-1018,3,2623.44,2023-07-08,2024-12-14,874.48,17,Active,Robert,Saleh,Cairo,gold,True
+CUST-1019,5,2861.05,2023-03-28,2024-12-23,572.21,8,Active,Hana,Mansour,New York,platinum,False
+CUST-1020,1,48.96,2023-04-02,2023-04-02,48.96,639,Churned,Ali,Williams,London,silver,False
+CUST-1021,3,1109.62,2023-12-12,2024-08-26,369.87,127,At Risk,Dina,Mustafa,Beirut,platinum,False
+CUST-1022,2,981.82,2023-04-30,2024-12-01,490.91,30,Active,Rami,Jones,New York,none,False
+CUST-1023,5,2580.0,2023-03-23,2024-07-26,516.0,158,At Risk,Emma,Smith,Abu Dhabi,platinum,True
+CUST-1024,7,5370.18,2023-01-27,2024-02-12,767.17,323,Churned,Dina,Mansour,Doha,silver,True
+CUST-1025,5,4767.219999999999,2023-02-28,2024-09-19,953.44,103,At Risk,John,Al-Rashid,Berlin,bronze,True
+CUST-1026,4,7823.45,2023-04-13,2024-10-24,1955.86,68,Active,Rami,Abbas,Toronto,none,False
+CUST-1027,8,2735.15,2023-05-25,2024-12-24,341.89,7,Active,Rami,Nasser,London,silver,False
+CUST-1028,5,4324.0,2023-01-22,2023-06-24,864.8,556,Churned,Karim,Jones,Abu Dhabi,silver,True
+CUST-1029,3,861.13,2023-08-18,2024-07-12,287.04,172,At Risk,Nour,Williams,London,platinum,False
+CUST-1030,6,4062.61,2023-06-17,2024-11-27,677.1,34,Active,Sara,Saleh,Sydney,platinum,True
+CUST-1031,7,3642.32,2023-02-08,2024-10-22,520.33,70,Active,Lina,Al-Rashid,Amman,platinum,True
+CUST-1032,4,1704.26,2023-04-28,2024-11-20,426.06,41,Active,Nour,Ibrahim,Beirut,silver,False
+CUST-1033,7,6317.73,2023-01-06,2024-12-27,902.53,4,Active,Dina,Wilson,Dubai,silver,False
+CUST-1034,3,2502.1400000000003,2024-08-09,2024-11-02,834.05,59,Active,Ava,Jones,Riyadh,platinum,False
+CUST-1035,6,5654.97,2023-06-11,2024-12-17,942.5,14,Active,Karim,Brown,Cairo,bronze,True
+CUST-1036,8,5516.7,2023-03-24,2024-10-20,689.59,72,Active,David,Haddad,Toronto,silver,True
+CUST-1037,5,1502.0700000000002,2023-04-11,2024-11-21,300.41,40,Active,Lina,Khalil,Muscat,silver,True
+CUST-1038,6,4633.96,2023-03-31,2024-11-21,772.33,40,Active,Mona,Khalil,Muscat,none,True
+CUST-1039,5,3112.03,2023-01-26,2024-12-20,622.41,11,Active,Michael,Farah,Abu Dhabi,gold,False
+CUST-1040,4,3739.45,2023-02-13,2024-10-22,934.86,70,Active,Omar,Miller,New York,platinum,True
+CUST-1041,9,7300.4800000000005,2023-02-13,2024-10-24,811.16,68,Active,Michael,Abbas,Beirut,platinum,False
+CUST-1042,6,5145.77,2023-05-26,2024-08-14,857.63,139,At Risk,Hana,Ibrahim,Amman,gold,False
+CUST-1043,3,1766.97,2024-03-25,2024-06-12,588.99,202,Churned,Ahmed,Davis,Sydney,none,False
+CUST-1044,5,2578.05,2023-02-10,2024-10-06,515.61,86,Active,Michael,Ibrahim,Kuwait City,none,False
+CUST-1045,4,1772.08,2023-01-10,2024-08-13,443.02,140,At Risk,David,Farah,London,platinum,True
+CUST-1046,2,3122.71,2024-06-02,2024-12-13,1561.36,18,Active,Michael,Farah,Cairo,gold,False
+CUST-1047,3,829.42,2023-02-07,2024-08-16,276.47,137,At Risk,Michael,Jones,Cairo,silver,True
+CUST-1048,5,4534.86,2023-02-28,2024-07-20,906.97,164,At Risk,Hassan,Davis,Cairo,gold,True
+CUST-1049,3,3718.37,2023-03-18,2023-12-07,1239.46,390,Churned,Layla,Mustafa,Dubai,platinum,True
+CUST-1050,2,1115.72,2023-10-20,2024-04-21,557.86,254,Churned,Fatima,Al-Rashid,Muscat,platinum,True
+CUST-1051,2,1091.72,2023-04-20,2023-07-12,545.86,538,Churned,Fatima,Mansour,Beirut,bronze,False
+CUST-1052,5,2572.3,2023-04-20,2024-12-01,514.46,30,Active,Nour,Khalil,Kuwait City,platinum,False
+CUST-1053,5,2113.51,2023-01-03,2024-10-23,422.7,69,Active,Mia,Jones,Cairo,silver,True
+CUST-1054,3,1360.18,2023-01-16,2024-09-10,453.39,112,At Risk,Karim,Mansour,Riyadh,none,False
+CUST-1055,6,3200.6,2023-01-31,2024-11-29,533.43,32,Active,Lina,Mustafa,Dubai,none,False
+CUST-1056,8,6794.99,2023-01-10,2024-05-12,849.37,233,Churned,Emma,Saleh,Beirut,bronze,True
+CUST-1057,7,4054.03,2023-03-12,2024-08-15,579.15,138,At Risk,Layla,Mustafa,Muscat,gold,False
+CUST-1058,1,50.66,2023-01-13,2023-01-13,50.66,718,Churned,Ziad,Wilson,Doha,bronze,False
+CUST-1059,5,2186.22,2023-01-04,2024-03-08,437.24,298,Churned,Omar,Farah,New York,platinum,True
+CUST-1060,7,6165.84,2023-03-20,2024-09-04,880.83,118,At Risk,Ziad,Jones,Berlin,platinum,True
+CUST-1061,5,3081.88,2023-02-12,2024-10-21,616.38,71,Active,Dana,Brown,Amman,platinum,False
+CUST-1062,6,3523.8599999999997,2023-08-10,2024-10-28,587.31,64,Active,James,Wilson,Dubai,none,True
+CUST-1063,6,3786.12,2023-03-02,2024-12-18,631.02,13,Active,Rami,Brown,Dubai,silver,True
+CUST-1064,3,1087.4,2023-09-21,2024-02-16,362.47,319,Churned,Karim,Wilson,Riyadh,silver,True
+CUST-1065,5,2736.88,2023-05-08,2024-11-22,547.38,39,Active,Mona,Wilson,Dubai,platinum,True
+CUST-1066,10,8169.92,2023-04-29,2024-10-21,816.99,71,Active,Mia,Mustafa,Kuwait City,platinum,True
+CUST-1067,1,264.77,2024-07-21,2024-07-21,264.77,163,At Risk,Hassan,Miller,London,bronze,False
+CUST-1068,5,5051.14,2023-05-25,2024-12-07,1010.23,24,Active,Mona,Mustafa,Sydney,gold,False
+CUST-1069,2,608.6400000000001,2023-03-12,2024-04-15,304.32,260,Churned,Reem,Wilson,Beirut,platinum,True
+CUST-1070,3,2267.6899999999996,2023-03-10,2024-12-14,755.9,17,Active,Sara,Smith,London,silver,True
+CUST-1071,4,2374.4900000000002,2023-02-22,2023-12-16,593.62,381,Churned,Ziad,Smith,Sydney,silver,False
+CUST-1072,5,1741.09,2023-03-06,2024-09-15,348.22,107,At Risk,Omar,Davis,Toronto,none,False
+CUST-1073,2,1151.2800000000002,2023-04-24,2023-05-15,575.64,596,Churned,Tariq,Smith,New York,silver,False
+CUST-1074,6,2599.09,2023-03-16,2024-12-11,433.18,20,Active,Sophia,Mansour,Beirut,bronze,False
+CUST-1075,6,4414.93,2023-01-01,2024-05-16,735.82,229,Churned,Mona,Johnson,Amman,silver,True
+CUST-1076,4,1102.07,2023-01-07,2024-12-28,275.52,3,Active,Layla,Mansour,Muscat,platinum,True
+CUST-1077,6,3490.32,2023-01-19,2024-12-13,581.72,18,Active,John,Ibrahim,Doha,bronze,True
+CUST-1078,4,2766.4700000000003,2024-01-17,2024-11-07,691.62,54,Active,Rami,Johnson,Muscat,platinum,False
+CUST-1079,4,4419.12,2023-03-10,2024-02-02,1104.78,333,Churned,Fatima,Farah,Beirut,gold,False
+CUST-1080,8,3564.92,2023-01-08,2024-12-30,445.62,1,Active,Ahmed,Haddad,Berlin,silver,False
+CUST-1081,7,3028.55,2023-01-11,2024-12-10,432.65,21,Active,Dina,Ibrahim,New York,none,True
+CUST-1082,6,4218.49,2023-05-07,2024-12-31,703.08,0,Active,Dana,Abbas,Abu Dhabi,none,False
+CUST-1083,5,2101.54,2023-06-04,2024-12-18,420.31,13,Active,Ziad,Ibrahim,Sydney,platinum,True
+CUST-1084,3,3652.68,2023-10-10,2024-04-06,1217.56,269,Churned,Omar,Abbas,Toronto,bronze,False
+CUST-1085,3,3057.92,2023-09-27,2024-11-13,1019.31,48,Active,Karim,Wilson,Abu Dhabi,bronze,False
+CUST-1086,2,842.31,2023-09-25,2024-01-12,421.16,354,Churned,Emma,Farah,Doha,bronze,True
+CUST-1087,3,3377.3599999999997,2023-05-31,2023-09-22,1125.79,466,Churned,John,Jones,Berlin,bronze,False
+CUST-1088,7,5289.05,2023-03-03,2024-10-08,755.58,84,Active,Fatima,Farah,Berlin,none,False
+CUST-1089,5,2213.94,2023-02-18,2024-06-06,442.79,208,Churned,Sophia,Abbas,Berlin,gold,True
+CUST-1090,4,2373.0899999999997,2023-03-28,2024-12-01,593.27,30,Active,Hassan,Jones,Doha,bronze,True
+CUST-1091,1,307.61,2024-01-29,2024-01-29,307.61,337,Churned,Tariq,Ibrahim,Jeddah,bronze,True
+CUST-1092,9,5607.18,2023-01-01,2024-08-11,623.02,142,At Risk,Olivia,Smith,Jeddah,silver,True
+CUST-1093,9,3271.56,2023-03-16,2024-11-20,363.51,41,Active,Ali,Abbas,Toronto,silver,False
+CUST-1094,4,2166.42,2023-07-05,2024-05-01,541.6,244,Churned,Fatima,Al-Rashid,Riyadh,gold,True
+CUST-1095,3,2407.92,2023-05-27,2024-09-05,802.64,117,At Risk,Sara,Abbas,London,none,False
+CUST-1096,5,3016.64,2023-04-06,2024-09-30,603.33,92,At Risk,Sami,Khalil,Doha,platinum,False
+CUST-1097,6,4048.71,2023-04-08,2024-09-19,674.78,103,At Risk,John,Al-Rashid,Dubai,bronze,True
+CUST-1098,1,473.35,2023-03-25,2023-03-25,473.35,647,Churned,Ali,Abbas,Abu Dhabi,none,False
+CUST-1099,6,3844.64,2023-01-21,2024-09-26,640.77,96,At Risk,Ziad,Mustafa,Doha,platinum,True
+CUST-1100,6,2818.59,2023-07-03,2024-03-23,469.77,283,Churned,Rami,Farah,Beirut,gold,True
+CUST-1101,3,901.6199999999999,2023-04-03,2023-12-03,300.54,394,Churned,Dana,Abbas,New York,gold,True
+CUST-1102,5,5247.25,2023-03-17,2023-12-23,1049.45,374,Churned,Olivia,Abbas,Kuwait City,platinum,True
+CUST-1103,2,318.44,2023-01-29,2024-08-09,159.22,144,At Risk,Dana,Brown,Sydney,silver,True
+CUST-1104,12,5834.2699999999995,2023-08-10,2024-10-29,486.19,63,Active,Emma,Davis,Jeddah,platinum,True
+CUST-1105,4,4191.11,2023-04-15,2024-12-18,1047.78,13,Active,Ava,Wilson,Toronto,gold,False
+CUST-1106,7,5996.68,2023-06-15,2024-11-17,856.67,44,Active,Mia,Smith,Amman,silver,True
+CUST-1107,6,4415.9,2023-01-30,2024-07-09,735.98,175,At Risk,Sophia,Al-Rashid,Abu Dhabi,gold,False
+CUST-1108,8,7032.06,2023-02-10,2024-12-11,879.01,20,Active,Sophia,Smith,Toronto,bronze,True
+CUST-1110,4,3346.81,2023-07-17,2024-11-12,836.7,49,Active,Hana,Khalil,Cairo,bronze,True
+CUST-1111,4,2403.54,2023-05-05,2024-08-28,600.88,125,At Risk,Ahmed,Saleh,Cairo,platinum,True
+CUST-1112,6,3321.1400000000003,2023-02-12,2024-09-17,553.52,105,At Risk,Sophia,Brown,Riyadh,bronze,False
+CUST-1113,3,1476.13,2023-06-24,2024-06-12,492.04,202,Churned,Tariq,Haddad,Beirut,platinum,False
+CUST-1114,4,2380.96,2023-04-03,2024-09-30,595.24,92,At Risk,Mona,Khalil,Beirut,platinum,True
+CUST-1115,7,5680.13,2023-03-02,2024-12-22,811.45,9,Active,Ava,Khalil,Jeddah,silver,False
+CUST-1116,4,1158.3899999999999,2023-06-25,2024-12-22,289.6,9,Active,Ali,Nasser,Abu Dhabi,silver,True
+CUST-1117,9,6530.58,2023-01-02,2024-05-16,725.62,229,Churned,Fatima,Abbas,Cairo,platinum,False
+CUST-1118,7,4585.65,2023-03-05,2024-02-03,655.09,332,Churned,David,Jones,New York,platinum,True
+CUST-1119,5,4545.16,2023-08-07,2024-07-31,909.03,153,At Risk,Rami,Mustafa,Toronto,platinum,False
+CUST-1120,7,3731.95,2023-01-19,2024-10-22,533.14,70,Active,Sara,Haddad,Amman,platinum,True
+CUST-1121,6,2646.74,2023-02-03,2024-10-04,441.12,88,Active,Rami,Wilson,Toronto,none,False
+CUST-1122,8,2938.3,2023-08-14,2024-04-12,367.29,263,Churned,Lina,Miller,Riyadh,bronze,True
+CUST-1123,5,4783.78,2023-08-26,2024-11-08,956.76,53,Active,Nour,Jones,Doha,platinum,False
+CUST-1124,4,1402.43,2023-08-29,2024-09-13,350.61,109,At Risk,David,Smith,New York,gold,False
+CUST-1125,4,1847.25,2023-02-09,2024-12-14,461.81,17,Active,Karim,Abbas,Amman,silver,False
+CUST-1126,4,1646.6200000000001,2023-04-28,2024-07-24,411.66,160,At Risk,Dina,Mansour,Cairo,platinum,True
+CUST-1127,5,3642.55,2023-01-17,2024-12-30,728.51,1,Active,Ziad,Johnson,Dubai,silver,True
+CUST-1128,3,1752.6799999999998,2023-05-11,2024-07-26,584.23,158,At Risk,Youssef,Abbas,Abu Dhabi,gold,True
+CUST-1129,7,5988.3099999999995,2023-02-09,2024-11-29,855.47,32,Active,Robert,Abbas,Muscat,platinum,True
+CUST-1130,1,1054.03,2024-09-10,2024-09-10,1054.03,112,At Risk,Dana,Farah,Doha,silver,False
+CUST-1131,3,2949.5,2023-02-06,2024-11-03,983.17,58,Active,Dana,Jones,Doha,gold,True
+CUST-1132,5,3310.92,2023-04-25,2024-09-25,662.18,97,At Risk,Sara,Davis,Sydney,silver,True
+CUST-1133,5,2629.63,2023-02-13,2024-12-15,525.93,16,Active,Karim,Jones,Berlin,platinum,True
+CUST-1134,7,8098.38,2024-01-07,2024-11-07,1156.91,54,Active,Sara,Williams,Kuwait City,gold,True
+CUST-1135,2,773.9200000000001,2023-10-04,2024-09-12,386.96,110,At Risk,Mia,Khalil,Sydney,platinum,False
+CUST-1136,5,5438.09,2023-03-31,2024-10-03,1087.62,89,Active,Dina,Al-Rashid,Berlin,bronze,False
+CUST-1137,3,2522.85,2023-01-02,2024-09-10,840.95,112,At Risk,David,Mustafa,Jeddah,bronze,False
+CUST-1138,8,6527.58,2023-01-13,2024-08-17,815.95,136,At Risk,Fatima,Davis,Muscat,platinum,False
+CUST-1139,1,1061.4,2024-07-03,2024-07-03,1061.4,181,Churned,Ahmed,Johnson,Jeddah,none,True
+CUST-1140,4,2361.29,2023-07-30,2024-01-12,590.32,354,Churned,Reem,Miller,Toronto,gold,False
+CUST-1141,9,6771.21,2023-02-19,2024-08-08,752.36,145,At Risk,Karim,Al-Rashid,Amman,bronze,True
+CUST-1142,4,1235.27,2023-01-02,2024-12-02,308.82,29,Active,Dana,Wilson,Amman,bronze,True
+CUST-1143,2,1029.81,2023-10-06,2024-11-22,514.9,39,Active,Michael,Jones,Dubai,none,False
+CUST-1144,6,1815.6599999999999,2023-01-05,2024-10-05,302.61,87,Active,Lina,Ibrahim,Dubai,bronze,False
+CUST-1145,4,2903.62,2023-10-21,2024-08-10,725.9,143,At Risk,Olivia,Johnson,Beirut,platinum,False
+CUST-1146,4,1272.74,2023-04-30,2024-03-07,318.18,299,Churned,Dana,Miller,Cairo,gold,False
+CUST-1147,4,1870.7700000000002,2023-03-17,2024-06-08,467.69,206,Churned,Fatima,Mansour,Amman,platinum,False
+CUST-1148,1,938.71,2024-11-12,2024-11-12,938.71,49,Active,Sara,Johnson,Muscat,gold,False
+CUST-1149,2,1208.0700000000002,2023-06-01,2024-04-19,604.04,256,Churned,Ziad,Nasser,Dubai,silver,True
+CUST-1150,4,4112.51,2023-03-28,2024-10-18,1028.13,74,Active,David,Johnson,Amman,gold,True
+CUST-1151,2,1401.5,2023-01-06,2024-10-13,700.75,79,Active,Rami,Mansour,Muscat,bronze,True
+CUST-1152,6,2095.88,2023-11-17,2024-12-21,349.31,10,Active,Ahmed,Nasser,Doha,silver,False
+CUST-1153,5,753.1399999999999,2023-05-03,2024-12-14,150.63,17,Active,Dina,Mustafa,London,bronze,False
+CUST-1154,3,2184.92,2023-07-29,2024-09-28,728.31,94,At Risk,Olivia,Smith,New York,gold,True
+CUST-1155,3,1912.0500000000002,2023-02-16,2023-08-02,637.35,517,Churned,Ziad,Farah,Abu Dhabi,platinum,False
+CUST-1156,3,2595.17,2023-01-12,2024-06-10,865.06,204,Churned,Olivia,Wilson,Riyadh,none,False
+CUST-1157,6,3121.17,2023-02-15,2024-12-17,520.2,14,Active,Omar,Abbas,Amman,silver,True
+CUST-1158,3,2377.0299999999997,2023-02-24,2024-11-22,792.34,39,Active,Hana,Miller,Berlin,silver,False
+CUST-1159,4,3473.0899999999997,2023-10-14,2024-07-28,868.27,156,At Risk,Dana,Miller,Berlin,none,False
+CUST-1160,5,5360.1900000000005,2023-02-15,2024-09-19,1072.04,103,At Risk,Reem,Mansour,Kuwait City,none,True
+CUST-1161,2,241.37,2024-02-18,2024-10-22,120.68,70,Active,Ali,Haddad,Sydney,none,True
+CUST-1162,7,3166.97,2023-03-27,2024-09-16,452.42,106,At Risk,Hana,Al-Rashid,Doha,gold,False
+CUST-1163,5,3387.96,2023-07-18,2024-08-01,677.59,152,At Risk,Rami,Mansour,London,none,False
+CUST-1164,3,3166.4700000000003,2023-07-22,2024-08-23,1055.49,130,At Risk,Youssef,Smith,Sydney,gold,True
+CUST-1165,2,1218.45,2023-12-06,2024-08-14,609.22,139,At Risk,Nour,Jones,Abu Dhabi,none,False
+CUST-1166,4,3943.63,2023-01-08,2024-07-28,985.91,156,At Risk,Hana,Farah,Sydney,none,False
+CUST-1167,2,393.02,2023-02-05,2023-08-29,196.51,490,Churned,Rami,Davis,Berlin,silver,True
+CUST-1168,5,2407.72,2023-11-07,2024-11-03,481.54,58,Active,Sami,Johnson,Dubai,bronze,True
+CUST-1169,1,372.29,2024-12-29,2024-12-29,372.29,2,Active,Hana,Abbas,Berlin,none,True
+CUST-1170,4,2767.73,2023-08-10,2024-08-02,691.93,151,At Risk,Reem,Saleh,Amman,none,True
+CUST-1171,4,2754.3599999999997,2023-03-29,2024-12-18,688.59,13,Active,Emma,Khalil,Riyadh,silver,True
+CUST-1172,5,1110.54,2023-01-01,2024-12-14,222.11,17,Active,Dina,Miller,Beirut,none,False
+CUST-1173,4,2650.59,2023-01-09,2024-02-08,662.65,327,Churned,Rami,Abbas,Muscat,none,False
+CUST-1174,4,1300.16,2023-02-23,2024-08-27,325.04,126,At Risk,Sophia,Mustafa,Muscat,platinum,False
+CUST-1175,8,5139.03,2023-03-15,2024-12-05,642.38,26,Active,James,Al-Rashid,Amman,none,True
+CUST-1176,3,1425.5499999999997,2023-02-14,2023-12-21,475.18,376,Churned,Lina,Ibrahim,New York,silver,False
+CUST-1177,3,2694.55,2023-05-16,2024-10-11,898.18,81,Active,James,Farah,Dubai,platinum,True
+CUST-1178,1,1364.81,2023-11-05,2023-11-05,1364.81,422,Churned,Michael,Saleh,Beirut,none,True
+CUST-1179,2,983.7099999999999,2023-04-18,2023-12-27,491.85,370,Churned,Ali,Davis,Kuwait City,gold,False
+CUST-1180,5,4394.95,2023-02-09,2024-12-14,878.99,17,Active,Dina,Davis,Jeddah,silver,False
+CUST-1181,3,2179.34,2023-04-19,2024-08-19,726.45,134,At Risk,Michael,Davis,Amman,platinum,False
+CUST-1182,4,2672.7799999999997,2023-06-29,2024-05-16,668.2,229,Churned,James,Johnson,Toronto,platinum,False
+CUST-1183,3,1463.39,2023-02-17,2023-06-01,487.8,579,Churned,Hassan,Saleh,Sydney,silver,True
+CUST-1184,10,8661.99,2023-01-09,2024-12-10,866.2,21,Active,Sara,Miller,Jeddah,silver,True
+CUST-1185,6,4596.31,2023-04-17,2024-10-21,766.05,71,Active,Ahmed,Wilson,Berlin,gold,True
+CUST-1186,4,737.3,2023-09-19,2024-08-24,184.32,129,At Risk,Ali,Mustafa,New York,platinum,True
+CUST-1187,7,6136.34,2023-03-04,2024-04-19,876.62,256,Churned,Robert,Nasser,Berlin,gold,True
+CUST-1188,4,5084.81,2024-02-28,2024-12-25,1271.2,6,Active,Sami,Khalil,Berlin,none,True
+CUST-1189,3,464.78,2024-05-23,2024-10-25,154.93,67,Active,Rami,Ibrahim,Jeddah,bronze,True
+CUST-1190,4,3565.49,2023-07-12,2024-04-13,891.37,262,Churned,Sophia,Smith,Toronto,platinum,False
+CUST-1191,7,6698.56,2023-03-09,2024-12-21,956.94,10,Active,James,Brown,Kuwait City,gold,False
+CUST-1192,6,5277.03,2023-01-10,2024-12-06,879.5,25,Active,Mia,Farah,Dubai,gold,True
+CUST-1193,6,1574.93,2023-02-03,2024-09-28,262.49,94,At Risk,John,Johnson,London,none,False
+CUST-1194,7,5270.95,2023-07-10,2024-11-08,752.99,53,Active,Mia,Mustafa,London,silver,False
+CUST-1195,5,4021.74,2023-03-29,2024-10-01,804.35,91,At Risk,Rami,Johnson,Beirut,none,True
+CUST-1196,5,2395.8599999999997,2023-04-13,2024-10-07,479.17,85,Active,Rami,Miller,London,none,True
+CUST-1197,5,5311.18,2023-03-08,2024-09-21,1062.24,101,At Risk,Reem,Abbas,Riyadh,bronze,False
+CUST-1198,3,708.71,2024-02-28,2024-10-27,236.24,65,Active,Robert,Miller,Doha,none,True
+CUST-1199,3,1310.6999999999998,2023-02-01,2024-10-19,436.9,73,Active,Rami,Mustafa,London,platinum,True

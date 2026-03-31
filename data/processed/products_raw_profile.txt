@@ -1,0 +1,22 @@
+============================================================
+  PROFILE REPORT: PRODUCTS_RAW
+============================================================
+  Rows      : 51
+  Columns   : 8
+  Duplicates: 1 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  product_id                     str                  0    0.0%       50
+  sku                            str                  0    0.0%       48
+  product_name                   str                  0    0.0%       50
+  category                       str                  3    5.9%        9
+  unit_price                     str                  0    0.0%       50
+  stock_quantity                 str                  0    0.0%       48
+  weight_kg                      str                  2    3.9%       49
+  created_date                   str                  0    0.0%       49
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+============================================================

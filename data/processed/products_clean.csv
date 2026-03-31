@@ -1,0 +1,47 @@
+product_id,sku,product_name,category,unit_price,stock_quantity,weight_kg,created_date
+PROD-100,SKU-1000,Wireless Bluetooth Headphones,clothing,11.13,140,3.75,2022-05-23
+PROD-101,SKU-1001,Usb-C Fast Charger,clothing,170.79,456,8.23,2023-08-28
+PROD-102,SKU-1002,Laptop Stand Adjustable,toys,12.79,47,3.36,2023-06-02
+PROD-103,SKU-1003,Mechanical Keyboard Rgb,electronics,142.51,366,9.78,2023-07-13
+PROD-104,SKU-1004,Portable Power Bank 20000Mah,toys,59.01,301,,2022-10-12
+PROD-106,SKU-1006,Noise Cancelling Earbuds,sports,43.09,490,11.48,2022-04-15
+PROD-107,SKU-1007,4K Webcam Hd,uncategorized,98.08,183,12.73,2023-09-11
+PROD-108,SKU-1008,External Ssd 1Tb,sports,202.75,373,6.95,2022-05-08
+PROD-109,SKU-1009,Monitor Arm Mount,toys,24.31,150,12.46,2023-09-26
+PROD-110,SKU-1010,Cotton Crew Neck T-Shirt,beauty,146.45,360,1.14,2023-11-09
+PROD-111,SKU-1011,Slim Fit Jeans,books,194.4,40,12.84,2022-04-14
+PROD-113,SKU-1013,Winter Puffer Jacket,beauty,92.04,343,4.08,2023-12-01
+PROD-114,SKU-1014,Wool Blend Scarf,clothing,154.24,87,8.06,2022-09-08
+PROD-115,SKU-1015,Leather Belt Classic,home & kitchen,118.25,138,14.84,2023-10-18
+PROD-116,SKU-1016,Hiking Backpack 40L,books,172.73,431,11.55,2022-02-27
+PROD-117,SKU-1017,Yoga Pants High Waist,books,206.34,412,4.8,2022-10-02
+PROD-119,SKU-1019,Silk Tie Collection,books,165.58,202,,2023-10-21
+PROD-120,SKU-1020,Stainless Steel Water Bottle,grocery,40.0,71,3.77,2023-07-29
+PROD-121,SKU-1021,Non-Stick Frying Pan Set,sports,188.02,219,13.48,2023-02-13
+PROD-122,SKU-1022,Bamboo Cutting Board,uncategorized,58.73,70,7.69,2022-04-04
+PROD-123,SKU-1023,French Press Coffee Maker,electronics,215.97,78,9.45,2023-11-28
+PROD-124,SKU-1024,Ceramic Dinner Plate Set,toys,151.12,197,5.79,2023-04-25
+PROD-125,SKU-1025,Kitchen Scale Digital,sports,242.91,440,14.14,2023-11-28
+PROD-126,SKU-1026,Air Fryer 5.5L,clothing,172.02,274,11.29,2023-10-19
+PROD-127,SKU-1027,Vacuum Insulated Mug,beauty,32.33,222,2.46,2022-01-04
+PROD-128,SKU-1028,Knife Block Set 14Pc,sports,243.11,390,2.76,2022-04-19
+PROD-129,SKU-1029,Silicone Spatula Set,sports,211.21,259,9.17,2022-06-06
+PROD-131,SKU-1031,Data Science Handbook,electronics,151.74,250,0.39,2023-01-07
+PROD-132,SKU-1032,Clean Code,sports,63.67,123,13.18,2022-03-22
+PROD-133,SKU-1033,The Pragmatic Programmer,clothing,184.32,417,1.13,2023-06-30
+PROD-134,SKU-1034,Atomic Habits,home & kitchen,36.46,243,14.21,2022-06-19
+PROD-135,SKU-1035,Deep Work,uncategorized,134.28,310,6.4,2022-08-05
+PROD-136,SKU-1036,Thinking Fast And Slow,books,179.67,204,14.93,2023-10-28
+PROD-137,SKU-1037,The Art Of War,beauty,112.33,264,6.83,2022-09-11
+PROD-138,SKU-1038,Yoga Mat Premium,books,20.69,10,8.87,2022-08-24
+PROD-139,SKU-1039,Resistance Bands Set,books,6.76,362,9.5,2022-08-23
+PROD-140,SKU-1040,Jump Rope Speed,clothing,226.83,440,5.02,2023-06-11
+PROD-141,SKU-1041,Foam Roller,books,73.23,248,3.29,2022-05-16
+PROD-142,SKU-1042,Vitamin C Serum,grocery,64.53,-10,12.13,2022-07-14
+PROD-143,SKU-1043,Moisturizing Face Cream,clothing,28.75,220,5.38,2023-02-25
+PROD-144,SKU-1044,Sunscreen Spf 50,grocery,216.64,27,10.13,2023-10-24
+PROD-145,SKU-1045,Hair Dryer Ionic,clothing,19.85,372,5.16,2022-04-22
+PROD-146,SKU-1046,Building Blocks 500Pc,books,51.94,274,6.78,2023-03-09
+PROD-147,SKU-1047,Remote Control Car,home & kitchen,73.24,127,13.13,2022-03-19
+PROD-148,SKU-1048,Board Game Strategy,grocery,202.97,438,8.3,2022-02-21
+PROD-149,SKU-1049,Puzzle 1000Pc,electronics,242.4,474,11.33,2022-08-31

@@ -1,0 +1,31 @@
+============================================================
+  PROFILE REPORT: CUSTOMERS_RAW
+============================================================
+  Rows      : 203
+  Columns   : 11
+  Duplicates: 3 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  customer_id                    str                  0    0.0%      200
+  email                          str                  4    2.0%      197
+  phone                          str                  0    0.0%      198
+  signup_date                    str                  0    0.0%      199
+  is_active                      object               0    0.0%        4
+  loyalty_tier                   str                 36   17.7%        5
+  name.first                     str                  0    0.0%       33
+  name.last                      str                  0    0.0%       21
+  address.city                   str                  0    0.0%       15
+  address.country                str                  0    0.0%       13
+  address.postal_code            str                  3    1.5%      198
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+  [is_active]
+    True                             101 (49.8%)
+    False                             91 (44.8%)
+    yes                                8 (3.9%)
+    no                                 3 (1.5%)
+
+============================================================

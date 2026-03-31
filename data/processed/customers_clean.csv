@@ -1,0 +1,201 @@
+customer_id,email,phone,signup_date,is_active,loyalty_tier,first_name,last_name,city,country,postal_code,has_email
+CUST-1000,layla.brown@gmail.com,+971522097220,2023-09-13,True,platinum,Layla,Brown,Doha,Qatar,59672,True
+CUST-1001,karim.jones@gmail.com,+962520776478,2023-05-17,False,silver,Karim,Jones,Cairo,Egypt,34890,True
+CUST-1002,sara.wilson@yahoo.com,+962567491435,2022-10-05,True,bronze,Sara,Wilson,Dubai,Uae,79615,True
+CUST-1003,,+966554193837,2022-01-16,True,none,Ziad,Mansour,Sydney,Australia,25713,False
+CUST-1004,dina.haddad@gmail.com,+1570166708,2021-06-17,False,silver,Dina,Haddad,Muscat,Oman,51467,True
+CUST-1005,emma.smith@yahoo.com,+20561367643,2022-06-28,True,bronze,Emma,Smith,Jeddah,Saudi Arabia,51441,True
+CUST-1006,rami.khalil@gmail.com,+966546843172,2024-07-01,True,gold,Rami,Khalil,Abu Dhabi,Uae,19016,True
+CUST-1007,mona.nasser@gmail.com,+1501049999,2024-01-18,False,bronze,Mona,Nasser,Doha,Qatar,97538,True
+CUST-1008,robert.abbas@gmail.com,+966536553958,2021-08-25,True,gold,Robert,Abbas,Cairo,Egypt,46930,True
+CUST-1009,hassan.ibrahim@gmail.com,+971512388090,2023-09-28,False,gold,Hassan,Ibrahim,Kuwait City,Kuwait,93136,True
+CUST-1010,sara.alrashid@yahoo.com,+962574045292,2021-09-25,True,bronze,Sara,Al-Rashid,Amman,Jordan,66057,True
+CUST-1011,fatima.mansour@yahoo.com,+20578183110,2021-11-02,True,platinum,Fatima,Mansour,Berlin,Germany,82420,True
+CUST-1012,youssef.haddad@gmail.com,+966591545441,2023-01-17,True,gold,Youssef,Haddad,Cairo,Egypt,42706,True
+CUST-1013,david.wilson@gmail.com,+966521810617,2023-04-13,False,bronze,David,Wilson,Berlin,Germany,33206,True
+CUST-1014,layla.smith@yahoo.com,+971551343880,2023-04-24,False,silver,Layla,Smith,Toronto,Canada,15075,True
+CUST-1015,hassan.jones@yahoo.com,+971555123456,2022-09-18,False,bronze,Hassan,Jones,Amman,Jordan,53025,True
+CUST-1016,david.ibrahim@gmail.com,+1544446182,2023-11-10,True,gold,David,Ibrahim,Amman,Jordan,13617,True
+CUST-1017,layla.ibrahim@gmail.com,+20558571795,2021-08-11,True,platinum,Layla,Ibrahim,Dubai,Uae,89457,True
+CUST-1018,robert.saleh@yahoo.com,+1592188405,2021-04-01,True,gold,Robert,Saleh,Cairo,Egypt,97900,True
+CUST-1019,hana.mansour@yahoo.com,+971596603781,2022-11-08,False,platinum,Hana,Mansour,New York,Usa,49363,True
+CUST-1020,ali.williams@yahoo.com,+962589245317,2022-08-29,False,silver,Ali,Williams,London,Uk,,True
+CUST-1021,dina.mustafa@yahoo.com,+966557698610,2024-01-28,False,platinum,Dina,Mustafa,Beirut,Lebanon,86019,True
+CUST-1022,rami.jones@gmail.com,+966588429450,2022-03-14,False,none,Rami,Jones,New York,Usa,21114,True
+CUST-1023,emma204@gmail.com,+966503278320,2022-04-27,True,platinum,Emma,Smith,Abu Dhabi,Uae,16057,True
+CUST-1024,dina.mansour@yahoo.com,+962566354180,2023-04-29,True,silver,Dina,Mansour,Doha,Qatar,62383,True
+CUST-1025,john.alrashid@yahoo.com,+1562350830,2021-08-07,True,bronze,John,Al-Rashid,Berlin,Germany,16582,True
+CUST-1026,rami.abbas@gmail.com,+1542587010,2023-08-10,False,none,Rami,Abbas,Toronto,Canada,68008,True
+CUST-1027,rami.nasser@yahoo.com,+966585585469,2023-08-31,False,silver,Rami,Nasser,London,Uk,46347,True
+CUST-1028,karim.jones@yahoo.com,+20572498004,2022-09-08,True,silver,Karim,Jones,Abu Dhabi,Uae,20561,True
+CUST-1029,nour.williams@yahoo.com,+962544410148,2021-09-11,False,platinum,Nour,Williams,London,Uk,81121,True
+CUST-1030,sara.saleh@gmail.com,+1593351515,2023-05-11,True,platinum,Sara,Saleh,Sydney,Australia,12560,True
+CUST-1031,lina.alrashid@gmail.com,+962572238741,2022-09-04,True,platinum,Lina,Al-Rashid,Amman,Jordan,81582,True
+CUST-1032,nour.ibrahim@yahoo.com,+962597197979,2023-09-22,False,silver,Nour,Ibrahim,Beirut,Lebanon,31632,True
+CUST-1033,dina.wilson@gmail.com,+971511267237,2023-03-18,False,silver,Dina,Wilson,Dubai,Uae,94246,True
+CUST-1034,ava.jones@yahoo.com,+966561028710,2021-04-13,False,platinum,Ava,Jones,Riyadh,Saudi Arabia,52840,True
+CUST-1035,karim.brown@yahoo.com,+1506990811,2021-06-17,True,bronze,Karim,Brown,Cairo,Egypt,55870,True
+CUST-1036,david.haddad@yahoo.com,+971583394260,2021-05-03,True,silver,David,Haddad,Toronto,Canada,29973,True
+CUST-1037,lina.khalil@gmail.com,+20522520277,2022-03-23,True,silver,Lina,Khalil,Muscat,Oman,89415,True
+CUST-1038,mona.khalil@gmail.com,+962553238057,2021-02-22,True,none,Mona,Khalil,Muscat,Oman,35995,True
+CUST-1039,michael.farah@gmail.com,+1505512205,2022-09-10,False,gold,Michael,Farah,Abu Dhabi,Uae,55508,True
+CUST-1040,omar.miller@gmail.com,+962514165187,2022-11-30,True,platinum,Omar,Miller,New York,Usa,66822,True
+CUST-1041,michael.abbas@gmail.com,+20582666356,2021-12-27,False,platinum,Michael,Abbas,Beirut,Lebanon,80539,True
+CUST-1042,hana.ibrahim@yahoo.com,+962532730796,2022-05-18,False,gold,Hana,Ibrahim,Amman,Jordan,70910,True
+CUST-1043,ahmed.davis@gmail.com,+20534675473,2022-10-28,False,none,Ahmed,Davis,Sydney,Australia,54608,True
+CUST-1044,michael.ibrahim@gmail.com,+971532394260,2021-01-21,False,none,Michael,Ibrahim,Kuwait City,Kuwait,63271,True
+CUST-1045,,+971512489409,2023-09-03,True,platinum,David,Farah,London,Uk,48566,False
+CUST-1046,michael544@gmail.com,+20557110154,2024-04-06,False,gold,Michael,Farah,Cairo,Egypt,82140,True
+CUST-1047,michael.jones@yahoo.com,+966542352128,2022-09-20,True,silver,Michael,Jones,Cairo,Egypt,25670,True
+CUST-1048,hassan.davis@yahoo.com,+971526054020,2023-12-11,True,gold,Hassan,Davis,Cairo,Egypt,48829,True
+CUST-1049,layla.mustafa@yahoo.com,+971574270583,2023-12-30,True,platinum,Layla,Mustafa,Dubai,Uae,48290,True
+CUST-1050,fatima.alrashid@gmail.com,+20524744872,2022-08-06,True,platinum,Fatima,Al-Rashid,Muscat,Oman,16734,True
+CUST-1051,fatima.mansour@gmail.com,+971520364454,2023-10-05,False,bronze,Fatima,Mansour,Beirut,Lebanon,29555,True
+CUST-1052,nour.khalil@gmail.com,+1530291214,2023-05-03,False,platinum,Nour,Khalil,Kuwait City,Kuwait,78494,True
+CUST-1053,mia.jones@gmail.com,+971581823275,2023-05-29,True,silver,Mia,Jones,Cairo,Egypt,23006,True
+CUST-1054,karim.mansour@gmail.com,+966500359129,2022-07-05,False,none,Karim,Mansour,Riyadh,Saudi Arabia,63545,True
+CUST-1055,lina.mustafa@gmail.com,+962509553585,2022-04-20,False,none,Lina,Mustafa,Dubai,Uae,40595,True
+CUST-1056,emma.saleh@yahoo.com,+966535652586,2021-08-24,True,bronze,Emma,Saleh,Beirut,Lebanon,28643,True
+CUST-1057,layla.mustafa@gmail.com,+962592432795,2024-03-11,False,gold,Layla,Mustafa,Muscat,Oman,49857,True
+CUST-1058,ziad.wilson@gmail.com,+962598587474,2023-06-16,False,bronze,Ziad,Wilson,Doha,Qatar,52247,True
+CUST-1059,omar.farah@gmail.com,+20577342561,2024-03-24,True,platinum,Omar,Farah,New York,Usa,15273,True
+CUST-1060,ziad.jones@gmail.com,+962585199362,2022-07-24,True,platinum,Ziad,Jones,Berlin,Germany,74451,True
+CUST-1061,dana.brown@gmail.com,+20555250068,2022-10-20,False,platinum,Dana,Brown,Amman,Jordan,74942,True
+CUST-1062,james.wilson@yahoo.com,+20515558733,2023-07-21,True,none,James,Wilson,Dubai,Uae,62976,True
+CUST-1063,rami.brown@yahoo.com,+962583940940,2022-01-20,True,silver,Rami,Brown,Dubai,Uae,67939,True
+CUST-1064,karim.wilson@gmail.com,+962516297533,2022-08-13,True,silver,Karim,Wilson,Riyadh,Saudi Arabia,13783,True
+CUST-1065,mona.wilson@yahoo.com,+971561934487,2024-02-06,True,platinum,Mona,Wilson,Dubai,Uae,25396,True
+CUST-1066,mia.mustafa@gmail.com,+962532713008,2022-07-14,True,platinum,Mia,Mustafa,Kuwait City,Kuwait,69871,True
+CUST-1067,hassan.miller@yahoo.com,+962545617282,2021-10-07,False,bronze,Hassan,Miller,London,Uk,76550,True
+CUST-1068,mona.mustafa@gmail.com,+962572287061,2024-04-02,False,gold,Mona,Mustafa,Sydney,Australia,73483,True
+CUST-1069,reem.wilson@gmail.com,+966576745380,2023-07-22,True,platinum,Reem,Wilson,Beirut,Lebanon,60196,True
+CUST-1070,sara.smith@yahoo.com,+966566481885,2023-08-27,True,silver,Sara,Smith,London,Uk,,True
+CUST-1071,ziad.smith@yahoo.com,+962502059919,2021-07-25,False,silver,Ziad,Smith,Sydney,Australia,28894,True
+CUST-1072,omar.davis@gmail.com,+962587219599,2022-06-27,False,none,Omar,Davis,Toronto,Canada,20527,True
+CUST-1073,tariq.smith@yahoo.com,+971531510328,2023-09-27,False,silver,Tariq,Smith,New York,Usa,92727,True
+CUST-1074,sophia.mansour@gmail.com,+20503885234,2021-07-21,False,bronze,Sophia,Mansour,Beirut,Lebanon,16028,True
+CUST-1075,mona.johnson@yahoo.com,+971555123456,2023-02-06,True,silver,Mona,Johnson,Amman,Jordan,99364,True
+CUST-1076,layla.mansour@gmail.com,+962578270025,2023-02-23,True,platinum,Layla,Mansour,Muscat,Oman,28758,True
+CUST-1077,john.ibrahim@gmail.com,+962538605268,2022-06-07,True,bronze,John,Ibrahim,Doha,Qatar,98815,True
+CUST-1078,rami.johnson@gmail.com,+962540550084,2022-09-05,False,platinum,Rami,Johnson,Muscat,Oman,36111,True
+CUST-1079,fatima.farah@gmail.com,+20502944682,2024-03-17,False,gold,Fatima,Farah,Beirut,Lebanon,96275,True
+CUST-1080,ahmed.haddad@gmail.com,+966581478884,2023-10-15,False,silver,Ahmed,Haddad,Berlin,Germany,56179,True
+CUST-1081,dina.ibrahim@gmail.com,+971541464269,2021-10-08,True,none,Dina,Ibrahim,New York,Usa,67779,True
+CUST-1082,dana.abbas@gmail.com,+966526950221,2022-08-28,False,none,Dana,Abbas,Abu Dhabi,Uae,27322,True
+CUST-1083,ziad.ibrahim@gmail.com,+962539613214,2021-12-03,True,platinum,Ziad,Ibrahim,Sydney,Australia,54396,True
+CUST-1084,omar.abbas@gmail.com,+1549093496,2022-04-08,False,bronze,Omar,Abbas,Toronto,Canada,21836,True
+CUST-1085,karim689@gmail.com,+20578458327,2023-07-21,False,bronze,Karim,Wilson,Abu Dhabi,Uae,59941,True
+CUST-1086,emma.farah@gmail.com,+1544024257,2021-02-21,True,bronze,Emma,Farah,Doha,Qatar,89964,True
+CUST-1087,john.jones@yahoo.com,+971504994527,2022-09-11,False,bronze,John,Jones,Berlin,Germany,49893,True
+CUST-1088,,+20589991136,2024-06-01,False,none,Fatima,Farah,Berlin,Germany,80804,False
+CUST-1089,sophia.abbas@gmail.com,+1554776386,2023-04-30,True,gold,Sophia,Abbas,Berlin,Germany,46666,True
+CUST-1090,hassan703@gmail.com,+20573076970,2022-04-29,True,bronze,Hassan,Jones,Doha,Qatar,94518,True
+CUST-1091,tariq.ibrahim@yahoo.com,+966586128115,2021-09-08,True,bronze,Tariq,Ibrahim,Jeddah,Saudi Arabia,93819,True
+CUST-1092,olivia.smith@yahoo.com,+1527804191,2021-09-15,True,silver,Olivia,Smith,Jeddah,Saudi Arabia,86858,True
+CUST-1093,ali.abbas@gmail.com,+966517447248,2021-01-06,False,silver,Ali,Abbas,Toronto,Canada,80807,True
+CUST-1094,fatima244@gmail.com,+1543455870,2021-01-31,True,gold,Fatima,Al-Rashid,Riyadh,Saudi Arabia,12068,True
+CUST-1095,sara.abbas@yahoo.com,+971563920651,2023-05-13,False,none,Sara,Abbas,London,Uk,68756,True
+CUST-1096,sami.khalil@gmail.com,+971597608902,2023-10-29,False,platinum,Sami,Khalil,Doha,Qatar,96363,True
+CUST-1097,john.alrashid@gmail.com,+971565802771,2023-09-08,True,bronze,John,Al-Rashid,Dubai,Uae,68138,True
+CUST-1098,ali600@gmail.com,+1595583530,2021-09-16,False,none,Ali,Abbas,Abu Dhabi,Uae,52622,True
+CUST-1099,ziad.mustafa@gmail.com,+971587874085,2023-11-02,True,platinum,Ziad,Mustafa,Doha,Qatar,95316,True
+CUST-1100,rami.farah@yahoo.com,+971541949529,2022-11-26,True,gold,Rami,Farah,Beirut,Lebanon,65936,True
+CUST-1101,dana.abbas@yahoo.com,+971512513132,2023-08-30,True,gold,Dana,Abbas,New York,Usa,66606,True
+CUST-1102,olivia.abbas@gmail.com,+1544244334,2021-05-03,True,platinum,Olivia,Abbas,Kuwait City,Kuwait,97819,True
+CUST-1103,dana361@gmail.com,+971577566910,2021-04-16,True,silver,Dana,Brown,Sydney,Australia,76507,True
+CUST-1104,emma.davis@gmail.com,+20515419645,2021-08-10,True,platinum,Emma,Davis,Jeddah,Saudi Arabia,46512,True
+CUST-1105,ava.wilson@gmail.com,+20503886030,2024-02-15,False,gold,Ava,Wilson,Toronto,Canada,33647,True
+CUST-1106,mia.smith@gmail.com,+1588227303,2021-01-13,True,silver,Mia,Smith,Amman,Jordan,62531,True
+CUST-1107,sophia.alrashid@yahoo.com,+962545754284,2023-12-23,False,gold,Sophia,Al-Rashid,Abu Dhabi,Uae,30631,True
+CUST-1108,sophia.smith@yahoo.com,+971520881581,2024-03-08,True,bronze,Sophia,Smith,Toronto,Canada,30632,True
+CUST-1109,karim425@gmail.com,+20528933176,2023-05-19,True,gold,Karim,Jones,New York,Usa,77154,True
+CUST-1110,hana.khalil@gmail.com,+971529597483,2023-09-24,True,bronze,Hana,Khalil,Cairo,Egypt,61807,True
+CUST-1111,ahmed.saleh@gmail.com,+20544039837,2022-09-03,True,platinum,Ahmed,Saleh,Cairo,Egypt,25726,True
+CUST-1112,sophia.brown@gmail.com,+966567144075,2021-09-22,False,bronze,Sophia,Brown,Riyadh,Saudi Arabia,83233,True
+CUST-1113,tariq.haddad@gmail.com,+20577277086,2021-02-08,False,platinum,Tariq,Haddad,Beirut,Lebanon,66267,True
+CUST-1114,mona.khalil@yahoo.com,+1561753160,2021-02-12,True,platinum,Mona,Khalil,Beirut,Lebanon,57428,True
+CUST-1115,ava.khalil@gmail.com,+971553118906,2023-06-12,False,silver,Ava,Khalil,Jeddah,Saudi Arabia,50668,True
+CUST-1116,ali.nasser@gmail.com,+966546892354,2023-11-12,True,silver,Ali,Nasser,Abu Dhabi,Uae,56019,True
+CUST-1117,fatima.abbas@gmail.com,+971523776150,2022-09-02,False,platinum,Fatima,Abbas,Cairo,Egypt,92306,True
+CUST-1118,david.jones@yahoo.com,+20520261159,2024-03-02,True,platinum,David,Jones,New York,Usa,67640,True
+CUST-1119,rami.mustafa@yahoo.com,+1509957701,2022-07-17,False,platinum,Rami,Mustafa,Toronto,Canada,50685,True
+CUST-1120,sara.haddad@gmail.com,+971582545028,2022-08-11,True,platinum,Sara,Haddad,Amman,Jordan,87867,True
+CUST-1121,rami.wilson@gmail.com,+1587488142,2021-03-26,False,none,Rami,Wilson,Toronto,Canada,34672,True
+CUST-1122,lina.miller@yahoo.com,+20595873810,2021-05-07,True,bronze,Lina,Miller,Riyadh,Saudi Arabia,21053,True
+CUST-1123,nour.jones@gmail.com,+20550043345,2023-12-10,False,platinum,Nour,Jones,Doha,Qatar,47079,True
+CUST-1124,david.smith@yahoo.com,+971574888554,2021-04-18,False,gold,David,Smith,New York,Usa,98916,True
+CUST-1125,karim.abbas@gmail.com,+20541638598,2021-06-16,False,silver,Karim,Abbas,Amman,Jordan,95990,True
+CUST-1126,dina.mansour@gmail.com,+20517152188,2024-02-19,True,platinum,Dina,Mansour,Cairo,Egypt,97833,True
+CUST-1127,ziad.johnson@yahoo.com,+966545866538,2023-01-13,True,silver,Ziad,Johnson,Dubai,Uae,73736,True
+CUST-1128,youssef.abbas@gmail.com,+1599139119,2022-08-29,True,gold,Youssef,Abbas,Abu Dhabi,Uae,79013,True
+CUST-1129,robert.abbas@yahoo.com,+1522218290,2023-11-02,True,platinum,Robert,Abbas,Muscat,Oman,67366,True
+CUST-1130,dana.farah@yahoo.com,+966541536077,2022-08-07,False,silver,Dana,Farah,Doha,Qatar,,True
+CUST-1131,dana.jones@gmail.com,+962521751079,2022-08-01,True,gold,Dana,Jones,Doha,Qatar,36174,True
+CUST-1132,sara.davis@gmail.com,+1516733967,2023-01-31,True,silver,Sara,Davis,Sydney,Australia,47363,True
+CUST-1133,karim94@gmail.com,+966560549373,2023-11-18,True,platinum,Karim,Jones,Berlin,Germany,55820,True
+CUST-1134,sara.williams@yahoo.com,+971550319927,2023-05-02,True,gold,Sara,Williams,Kuwait City,Kuwait,39430,True
+CUST-1135,mia.khalil@yahoo.com,+20563411827,2022-11-18,False,platinum,Mia,Khalil,Sydney,Australia,28191,True
+CUST-1136,dina.alrashid@yahoo.com,+966573659258,2021-06-12,False,bronze,Dina,Al-Rashid,Berlin,Germany,89807,True
+CUST-1137,david.mustafa@yahoo.com,+962585758649,2022-09-09,False,bronze,David,Mustafa,Jeddah,Saudi Arabia,91633,True
+CUST-1138,fatima.davis@gmail.com,+1532472386,2024-01-03,False,platinum,Fatima,Davis,Muscat,Oman,28818,True
+CUST-1139,ahmed.johnson@yahoo.com,+971570260907,2024-03-14,True,none,Ahmed,Johnson,Jeddah,Saudi Arabia,57265,True
+CUST-1140,reem.miller@yahoo.com,+971555123456,2023-11-06,False,gold,Reem,Miller,Toronto,Canada,93318,True
+CUST-1141,karim.alrashid@yahoo.com,+971578101741,2021-05-19,True,bronze,Karim,Al-Rashid,Amman,Jordan,53583,True
+CUST-1142,dana.wilson@gmail.com,+962584790150,2021-12-25,True,bronze,Dana,Wilson,Amman,Jordan,33891,True
+CUST-1143,michael205@gmail.com,+971542358553,2022-08-24,False,none,Michael,Jones,Dubai,Uae,50642,True
+CUST-1144,lina.ibrahim@yahoo.com,+971588010774,2022-01-27,False,bronze,Lina,Ibrahim,Dubai,Uae,53506,True
+CUST-1145,olivia.johnson@gmail.com,+962545504725,2023-03-31,False,platinum,Olivia,Johnson,Beirut,Lebanon,34486,True
+CUST-1146,dana.miller@yahoo.com,+1524220459,2021-06-19,False,gold,Dana,Miller,Cairo,Egypt,81496,True
+CUST-1147,fatima735@gmail.com,+962522366682,2022-08-29,False,platinum,Fatima,Mansour,Amman,Jordan,68183,True
+CUST-1148,sara.johnson@gmail.com,+971510071854,2023-06-10,False,gold,Sara,Johnson,Muscat,Oman,97973,True
+CUST-1149,ziad.nasser@gmail.com,+962504670638,2021-10-20,True,silver,Ziad,Nasser,Dubai,Uae,26545,True
+CUST-1150,,+966591142166,2023-02-24,True,gold,David,Johnson,Amman,Jordan,68972,False
+CUST-1151,rami.mansour@yahoo.com,+20587182566,2021-10-09,True,bronze,Rami,Mansour,Muscat,Oman,46528,True
+CUST-1152,ahmed.nasser@gmail.com,+971535135070,2023-11-27,False,silver,Ahmed,Nasser,Doha,Qatar,44116,True
+CUST-1153,dina874@gmail.com,+971560672142,2023-03-10,False,bronze,Dina,Mustafa,London,Uk,32630,True
+CUST-1154,olivia.smith@gmail.com,+20540259503,2022-12-13,True,gold,Olivia,Smith,New York,Usa,30644,True
+CUST-1155,ziad.farah@yahoo.com,+962503527782,2022-02-16,False,platinum,Ziad,Farah,Abu Dhabi,Uae,57303,True
+CUST-1156,olivia.wilson@yahoo.com,+962570557676,2021-06-26,False,none,Olivia,Wilson,Riyadh,Saudi Arabia,63843,True
+CUST-1157,omar530@gmail.com,+20517224779,2021-06-01,True,silver,Omar,Abbas,Amman,Jordan,82260,True
+CUST-1158,hana.miller@gmail.com,+20522099899,2021-04-24,False,silver,Hana,Miller,Berlin,Germany,31229,True
+CUST-1159,dana651@gmail.com,+1536836194,2022-08-05,False,none,Dana,Miller,Berlin,Germany,26406,True
+CUST-1160,reem.mansour@gmail.com,+966522978158,2021-12-12,True,none,Reem,Mansour,Kuwait City,Kuwait,96341,True
+CUST-1161,ali.haddad@yahoo.com,+1535521514,2021-02-28,True,none,Ali,Haddad,Sydney,Australia,95344,True
+CUST-1162,hana.alrashid@gmail.com,+20564819756,2024-01-23,False,gold,Hana,Al-Rashid,Doha,Qatar,42096,True
+CUST-1163,rami.mansour@gmail.com,+962562336371,2021-03-05,False,none,Rami,Mansour,London,Uk,36741,True
+CUST-1164,youssef.smith@gmail.com,+966549733063,2022-10-16,True,gold,Youssef,Smith,Sydney,Australia,77499,True
+CUST-1165,nour.jones@yahoo.com,+971506792127,2022-07-02,False,none,Nour,Jones,Abu Dhabi,Uae,48038,True
+CUST-1166,hana.farah@gmail.com,+20525479101,2021-11-24,False,none,Hana,Farah,Sydney,Australia,30885,True
+CUST-1167,rami.davis@yahoo.com,+962567839607,2022-09-24,True,silver,Rami,Davis,Berlin,Germany,69930,True
+CUST-1168,sami.johnson@gmail.com,+962538352498,2021-04-14,True,bronze,Sami,Johnson,Dubai,Uae,80345,True
+CUST-1169,hana.abbas@gmail.com,+20506072331,2022-06-26,True,none,Hana,Abbas,Berlin,Germany,62505,True
+CUST-1170,reem.saleh@yahoo.com,+1560445541,2024-02-08,True,none,Reem,Saleh,Amman,Jordan,82070,True
+CUST-1171,emma.khalil@yahoo.com,+20574870921,2021-07-18,True,silver,Emma,Khalil,Riyadh,Saudi Arabia,57920,True
+CUST-1172,dina.miller@yahoo.com,+966595776676,2023-10-22,False,none,Dina,Miller,Beirut,Lebanon,53652,True
+CUST-1173,rami.abbas@yahoo.com,+1542752377,2023-11-22,False,none,Rami,Abbas,Muscat,Oman,31299,True
+CUST-1174,sophia.mustafa@gmail.com,+1565746104,2022-11-20,False,platinum,Sophia,Mustafa,Muscat,Oman,83783,True
+CUST-1175,james.alrashid@gmail.com,+1541295819,2022-11-10,True,none,James,Al-Rashid,Amman,Jordan,92478,True
+CUST-1176,lina53@gmail.com,+1564484744,2024-03-30,False,silver,Lina,Ibrahim,New York,Usa,32349,True
+CUST-1177,james.farah@yahoo.com,+962542103092,2024-03-18,True,platinum,James,Farah,Dubai,Uae,64890,True
+CUST-1178,michael.saleh@gmail.com,+971594727548,2023-10-25,True,none,Michael,Saleh,Beirut,Lebanon,28098,True
+CUST-1179,ali.davis@gmail.com,+962571555103,2023-02-11,False,gold,Ali,Davis,Kuwait City,Kuwait,54869,True
+CUST-1180,dina.davis@gmail.com,+966539945150,2022-05-20,False,silver,Dina,Davis,Jeddah,Saudi Arabia,47880,True
+CUST-1181,michael.davis@gmail.com,+20538626436,2023-09-10,False,platinum,Michael,Davis,Amman,Jordan,25974,True
+CUST-1182,james.johnson@yahoo.com,+971546488123,2021-10-27,False,platinum,James,Johnson,Toronto,Canada,67983,True
+CUST-1183,hassan.saleh@gmail.com,+20518424464,2024-01-09,True,silver,Hassan,Saleh,Sydney,Australia,24316,True
+CUST-1184,sara.miller@yahoo.com,+20596282168,2022-04-22,True,silver,Sara,Miller,Jeddah,Saudi Arabia,71918,True
+CUST-1185,ahmed.wilson@gmail.com,+962564082055,2021-11-20,True,gold,Ahmed,Wilson,Berlin,Germany,95267,True
+CUST-1186,ali.mustafa@gmail.com,+966571826922,2021-05-02,True,platinum,Ali,Mustafa,New York,Usa,14888,True
+CUST-1187,robert.nasser@gmail.com,+966538851599,2021-03-16,True,gold,Robert,Nasser,Berlin,Germany,14910,True
+CUST-1188,sami657@gmail.com,+1570372842,2022-11-18,True,none,Sami,Khalil,Berlin,Germany,74738,True
+CUST-1189,rami.ibrahim@yahoo.com,+962587011385,2021-08-19,True,bronze,Rami,Ibrahim,Jeddah,Saudi Arabia,43720,True
+CUST-1190,sophia.smith@gmail.com,+966523554528,2022-08-28,False,platinum,Sophia,Smith,Toronto,Canada,90079,True
+CUST-1191,james.brown@gmail.com,+971524800912,2022-11-03,False,gold,James,Brown,Kuwait City,Kuwait,28430,True
+CUST-1192,mia.farah@yahoo.com,+20544241559,2022-06-19,True,gold,Mia,Farah,Dubai,Uae,49576,True
+CUST-1193,john.johnson@gmail.com,+962541178850,2022-04-29,False,none,John,Johnson,London,Uk,30934,True
+CUST-1194,mia.mustafa@yahoo.com,+966529410942,2021-08-29,False,silver,Mia,Mustafa,London,Uk,27507,True
+CUST-1195,rami822@gmail.com,+966533214247,2024-01-30,True,none,Rami,Johnson,Beirut,Lebanon,99173,True
+CUST-1196,rami.miller@gmail.com,+971508289024,2023-01-11,True,none,Rami,Miller,London,Uk,81781,True
+CUST-1197,reem.abbas@gmail.com,+966596223100,2022-11-03,False,bronze,Reem,Abbas,Riyadh,Saudi Arabia,86434,True
+CUST-1198,robert.miller@yahoo.com,+962561310453,2021-04-24,True,none,Robert,Miller,Doha,Qatar,83912,True
+CUST-1199,rami4@gmail.com,+966577619624,2021-02-14,True,platinum,Rami,Mustafa,London,Uk,19572,True

@@ -1,0 +1,22 @@
+============================================================
+  PROFILE REPORT: REVIEWS_RAW
+============================================================
+  Rows      : 500
+  Columns   : 8
+  Duplicates: 0 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  review_id                      str                  0    0.0%      497
+  product_id                     str                  0    0.0%       53
+  customer_id                    str                  0    0.0%      183
+  rating                         str                  0    0.0%       33
+  review_text                    str                 39    7.8%       21
+  review_date                    str                  0    0.0%      337
+  verified_purchase              str                  0    0.0%       10
+  helpful_votes                  str                 58   11.6%       52
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+============================================================

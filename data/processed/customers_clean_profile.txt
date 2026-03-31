@@ -1,0 +1,26 @@
+============================================================
+  PROFILE REPORT: CUSTOMERS_CLEAN
+============================================================
+  Rows      : 200
+  Columns   : 12
+  Duplicates: 0 exact duplicate rows
+
+  Column                         Dtype            Nulls   Null%   Unique
+  ----------------------------------------------------------------------
+  customer_id                    str                  0    0.0%      200
+  email                          str                  4    2.0%      197
+  phone                          str                  0    0.0%      198
+  signup_date                    str                  0    0.0%      189
+  is_active                      bool                 0    0.0%        2
+  loyalty_tier                   str                  0    0.0%        5
+  first_name                     str                  0    0.0%       30
+  last_name                      str                  0    0.0%       18
+  city                           str                  0    0.0%       15
+  country                        str                  0    0.0%       13
+  postal_code                    str                  3    1.5%      198
+  has_email                      bool                 0    0.0%        2
+
+  CATEGORICAL COLUMN VALUE COUNTS
+  ------------------------------------------------------------
+
+============================================================
